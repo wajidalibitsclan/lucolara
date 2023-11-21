@@ -1,0 +1,52 @@
+[{
+  "_id": {
+    "$oid": "586689f602a5390b26267224"
+  },
+  "title": "Persone",
+  "slug": "persone",
+  "updated_at": {
+    "$date": "2016-12-30T16:23:18.437Z"
+  },
+  "created_at": {
+    "$date": "2016-12-30T16:23:18.437Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586689ec02a53903f0653055"
+  },
+  "title": "Categorie",
+  "slug": "categorie",
+  "updated_at": {
+    "$date": "2016-12-30T16:23:08.552Z"
+  },
+  "created_at": {
+    "$date": "2016-12-30T16:23:08.552Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586689f602a5390b26267225"
+  },
+  "title": "Ruolo",
+  "slug": "ruolo",
+  "updated_at": {
+    "$date": "2016-12-30T16:23:18.439Z"
+  },
+  "created_at": {
+    "$date": "2016-12-30T16:23:18.439Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586689f602a5390b26267223"
+  },
+  "title": "Etichette",
+  "slug": "etichette",
+  "updated_at": {
+    "$date": "2016-12-30T16:23:18.435Z"
+  },
+  "created_at": {
+    "$date": "2016-12-30T16:23:18.435Z"
+  }
+}]

@@ -1,0 +1,141 @@
+[{
+  "_id": {
+    "$oid": "5857fdcc02a53906ba381491"
+  },
+  "name": "Elisa",
+  "email": "lisaragni@gmail.com",
+  "password": "$2a$12$4uIqONlsSoB37zVq74ph3OEbHO9a.OZMTV9ppBbFMtR3NMuz358oi",
+  "slug": "elisa",
+  "updated_at": {
+    "$date": "2021-08-24T19:28:42.718Z"
+  },
+  "created_at": {
+    "$date": "2016-12-19T15:33:32.665Z"
+  },
+  "remember_token": "xwZrs0dczSanH4zrHW6YMAHKfI0OHK6o4CWgMoej9tbttJOcnzEoJAn41Wp6"
+},
+{
+  "_id": {
+    "$oid": "58332cb302a53906bc0a59f1"
+  },
+  "name": "Andrea",
+  "email": "info@webuildweb.eu",
+  "password": "$2y$10$rX/Z6JiG5NnMnXAMZFio6O0Q.Lnj6SRqDrQ0NmrHj02zal.zTc2Jm",
+  "updated_at": {
+    "$date": "2021-08-24T19:19:06.861Z"
+  },
+  "created_at": {
+    "$date": "2016-11-21T17:19:47.036Z"
+  },
+  "remember_token": "KNOxqIHcEBicomf99I0Hx0jAmstsXZC4ry5HVFwxOSvVZN5R9ECLPGvyBOvZ",
+  "slug": "andrea"
+},
+{
+  "_id": {
+    "$oid": "5834435f02a5390c6f48f101"
+  },
+  "name": "Sam",
+  "email": "sammkaranja@gmail.com",
+  "password": "$2y$10$rX/Z6JiG5NnMnXAMZFio6O0Q.Lnj6SRqDrQ0NmrHj02zal.zTc2Jm",
+  "updated_at": {
+    "$date": "2022-11-07T14:25:23.441Z"
+  },
+  "created_at": {
+    "$date": "2016-11-22T13:08:47.380Z"
+  },
+  "remember_token": "7Worrfphgpztqjb8ChVx7u3A3HFpqdGeSN0PX23umOF9SXqzagwzE6JrjIbg",
+  "slug": "sam"
+},
+{
+  "_id": {
+    "$oid": "58765f9702a5395e7973c6c9"
+  },
+  "name": "Ilaria",
+  "email": "ilaria.rossi@manafactory.it",
+  "password": "$2y$10$2jMbbSu.xFCHSlK/ibBxlOzJEf0dVGU2wg9AxT5nJcgnRepwiXjVS",
+  "slug": "ilaria",
+  "updated_at": {
+    "$date": "2017-01-11T16:39:13.883Z"
+  },
+  "created_at": {
+    "$date": "2017-01-11T16:38:47.423Z"
+  },
+  "remember_token": "Mknp8GZqO5HNnd9dB5S15VhJrXMejW09DPT2cPd0IOi4Gzac3XAp8jEadJG6"
+},
+{
+  "_id": {
+    "$oid": "5e66639c6882fd22273fdc82"
+  },
+  "name": "admin",
+  "email": "marcopava90@gmail.com",
+  "password": "$2y$10$PxcSgA6VvIFXn6jMRZQvlOCApdDiNOM3/0Dzzmnsv7ieAbTV.E3tS",
+  "slug": "admin",
+  "updated_at": {
+    "$date": "2020-03-09T16:56:34.265Z"
+  },
+  "created_at": {
+    "$date": "2020-03-09T15:41:16.260Z"
+  },
+  "remember_token": "11zWv10nLmaYWa2ybCjXtGkdTjqMxvfw0R8JwZ1j23W4aAwtV0NI8RiqpMfn"
+},
+{
+  "_id": {
+    "$oid": "585272d002a5393acc3c6381"
+  },
+  "name": "Mimmo",
+  "email": "mimmo@mimmo.it",
+  "password": "$2y$10$JbzwoeUGYZLrJU5UCE1.l.GtRfXcfsGb2md8KGTSaLT01qV556cBO",
+  "slug": "mimmo",
+  "updated_at": {
+    "$date": "2016-12-15T11:38:31.837Z"
+  },
+  "created_at": {
+    "$date": "2016-12-15T10:39:12.424Z"
+  },
+  "remember_token": "nSUi58R1YCbRi6JsdvezSKBliBfg1i1fDnncrsismGXrD3jJIpNzpyPh9o2R"
+},
+{
+  "_id": {
+    "$oid": "612549debce2391628459643"
+  },
+  "name": "Gresy",
+  "email": "gaiaclotilde@gmail.com",
+  "password": "$2a$12$cUuzk07dxRBGOzU39Ovqpuigy2/Ye.sM3kKegQdkav/AZxuQXcZAa",
+  "slug": "gresy",
+  "updated_at": {
+    "$date": "2022-02-14T23:41:01.458Z"
+  },
+  "created_at": {
+    "$date": "2016-12-19T15:33:32.665Z"
+  },
+  "remember_token": "EaZJOKBgx09c0vem4RiRNfUp1N9lotqDXOIlUoQQBE80dV5QyCNkPgey1hmI"
+},
+{
+  "_id": {
+    "$oid": "621f3b875cb1044216099812"
+  },
+  "name": "Olivier",
+  "email": "olivieropdp@gmail.com",
+  "password": "$2y$10$EUFXRVuoUV0V9Nz8yeCMgOZqQAv..aPG0zPafTdJt89NoHSjUYz.S",
+  "slug": "olivier",
+  "updated_at": {
+    "$date": "2022-03-02T09:42:15.551Z"
+  },
+  "created_at": {
+    "$date": "2022-03-02T09:40:23.380Z"
+  },
+  "remember_token": "0oCJ0HvcVM3aqWPLmH2cf7Ly24TEBcAbCjtZcaVNmpOMXBDn4owRoMCSxmp7"
+},
+{
+  "_id": {
+    "$oid": "636913fbf9754ea76b8619cb"
+  },
+  "name": "Mila",
+  "email": "mila.digiulio@gmail.com",
+  "password": "$2a$12$F92wD.Iaqt2GkyDdL.mrIu9VPimk7WvTsB73QxWCovGu3sBKdXieW",
+  "slug": "mila",
+  "remember_token": "SaplooYPq8EqAEgXas7pKskcdEAtmgPgGyk7cdLvMzqkCHxe6wCeKiXSG6AN",
+  "updated_at": {
+    "$date": "2023-04-20T15:47:51.281Z"
+  }
+}]

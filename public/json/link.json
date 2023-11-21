@@ -1,0 +1,2535 @@
+[{
+  "_id": {
+    "$oid": "586fa24002a539587c4cba14"
+  },
+  "type": "media",
+  "title": "Foto di Marcello Norberth / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "SuOb8PjdIqI",
+  "updated_at": {
+    "$date": "2019-11-08T09:47:23.446Z"
+  },
+  "created_at": {
+    "$date": "2017-01-06T13:57:20.568Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586e2edd02a5394540379ed9"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/watch?v=irUyx31OegQ",
+  "updated_at": {
+    "$date": "2017-01-05T11:32:45.895Z"
+  },
+  "created_at": {
+    "$date": "2017-01-05T11:32:45.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586e521902a5394540379eff"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "",
+  "updated_at": {
+    "$date": "2017-01-05T14:03:05.064Z"
+  },
+  "created_at": {
+    "$date": "2017-01-05T14:03:05.064Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586fa37402a539530e2a72dd"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "YRW_LeNZQsw",
+  "updated_at": {
+    "$date": "2017-01-06T14:02:28.787Z"
+  },
+  "created_at": {
+    "$date": "2017-01-06T14:02:28.787Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586fa2e702a5396c443098a1"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "irUyx31OegQ",
+  "updated_at": {
+    "$date": "2017-01-06T14:00:07.540Z"
+  },
+  "created_at": {
+    "$date": "2017-01-06T14:00:07.540Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586fc54f02a539587c4cba49"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "kwCkDoOi61I",
+  "updated_at": {
+    "$date": "2017-01-06T16:26:55.392Z"
+  },
+  "created_at": {
+    "$date": "2017-01-06T16:26:55.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5870ef7b02a5396c65529f91"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "a4HjybP-A5w",
+  "updated_at": {
+    "$date": "2017-01-07T13:39:07.767Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T13:39:07.767Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5870fb1e02a5396c4430992d"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "V_jDd40vsto",
+  "updated_at": {
+    "$date": "2017-01-07T14:28:46.188Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T14:28:46.188Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "586e537502a5394f12311eb2"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "irUyx31OegQ ",
+  "updated_at": {
+    "$date": "2017-01-05T14:08:53.249Z"
+  },
+  "created_at": {
+    "$date": "2017-01-05T14:08:53.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5871284602a5396c65529fa8"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "8PXhVhCRAXE",
+  "updated_at": {
+    "$date": "2017-01-07T17:41:26.557Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T17:41:26.557Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5871307202a5396c65529fb5"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "lwH16h-gsSU",
+  "updated_at": {
+    "$date": "2017-01-07T18:18:50.393Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T18:16:18.421Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "587130ba02a539587c4cbab9"
+  },
+  "type": "media",
+  "title": "Intervista di Ariella Beddini",
+  "descrizione": "",
+  "youtubeCode": "UuDxo-tliIM",
+  "updated_at": {
+    "$date": "2017-01-07T18:17:30.400Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T18:17:30.400Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5871725a02a5396c44309971"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "3j1q4nXuOqc",
+  "updated_at": {
+    "$date": "2017-01-07T22:57:30.884Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T22:57:30.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5872601e02a5390de75862f5"
+  },
+  "type": "media",
+  "title": "Intervista di Ariella Beddini",
+  "descrizione": "",
+  "youtubeCode": "YSVe171eT5Q",
+  "updated_at": {
+    "$date": "2017-01-08T15:51:58.618Z"
+  },
+  "created_at": {
+    "$date": "2017-01-08T15:51:58.618Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5872604302a539204475a57e"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo",
+  "descrizione": "",
+  "youtubeCode": "wv0B8_HENO0",
+  "updated_at": {
+    "$date": "2019-11-13T12:34:15.357Z"
+  },
+  "created_at": {
+    "$date": "2017-01-08T15:52:35.825Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "58737aba02a539210f13546a"
+  },
+  "type": "media",
+  "title": "Intervista di Ariella Beddini",
+  "descrizione": "",
+  "youtubeCode": "ipjx8D6p7FQ",
+  "updated_at": {
+    "$date": "2017-01-09T11:58:23.352Z"
+  },
+  "created_at": {
+    "$date": "2017-01-09T11:57:46.394Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "58712a2702a5396c44309943"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "F1qPa4ftwA0",
+  "updated_at": {
+    "$date": "2017-01-07T17:49:27.330Z"
+  },
+  "created_at": {
+    "$date": "2017-01-07T17:49:27.330Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "58755a2a02a53952d94cbff8"
+  },
+  "type": "media",
+  "title": "Il trailer",
+  "descrizione": "",
+  "youtubeCode": "c3Njwp5XYkA",
+  "updated_at": {
+    "$date": "2017-01-10T22:03:50.483Z"
+  },
+  "created_at": {
+    "$date": "2017-01-10T22:03:22.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "58761abe02a5395e7973c66d"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "C_RlXa4Mqqo",
+  "updated_at": {
+    "$date": "2017-01-11T11:45:02.419Z"
+  },
+  "created_at": {
+    "$date": "2017-01-11T11:45:02.419Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5873b3c702a539210f13547e"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "irUyx31OegQ",
+  "updated_at": {
+    "$date": "2017-01-09T16:01:11.598Z"
+  },
+  "created_at": {
+    "$date": "2017-01-09T16:01:11.598Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881ce9302a53973cb11eb3e"
+  },
+  "type": "media",
+  "title": "Servizio sull'inaugurazione della mostra",
+  "descrizione": "",
+  "youtubeCode": "o97eJUAc6Gg",
+  "updated_at": {
+    "$date": "2017-01-20T08:47:15.728Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T08:47:15.728Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5880cc5a02a53940506d0cf0"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "ZFblGmT15-U",
+  "updated_at": {
+    "$date": "2017-01-19T14:25:30.927Z"
+  },
+  "created_at": {
+    "$date": "2017-01-19T14:25:30.927Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "587755c902a539131f6b313a"
+  },
+  "type": "media",
+  "title": "Lo spettacolo nella versione televisiva",
+  "descrizione": "",
+  "youtubeCode": "6Nj-kll5Jz4",
+  "updated_at": {
+    "$date": "2017-01-12T10:09:56.953Z"
+  },
+  "created_at": {
+    "$date": "2017-01-12T10:09:13.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d09b02a539787b0a7b33"
+  },
+  "type": "media",
+  "title": "#1",
+  "descrizione": "",
+  "youtubeCode": "P0NM-Y8rNvQ",
+  "updated_at": {
+    "$date": "2017-01-20T08:55:55.454Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T08:55:55.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d11802a53973cb11eb40"
+  },
+  "type": "media",
+  "title": "#2",
+  "descrizione": "",
+  "youtubeCode": "d6NevpLOjt8",
+  "updated_at": {
+    "$date": "2017-01-20T08:58:00.280Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T08:58:00.280Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d13702a539723d6ec902"
+  },
+  "type": "media",
+  "title": "#3",
+  "descrizione": "",
+  "youtubeCode": "rVqLtMKn_Ng",
+  "updated_at": {
+    "$date": "2017-01-20T08:59:32.960Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T08:58:31.611Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d15c02a539787b0a7b34"
+  },
+  "type": "media",
+  "title": "#4",
+  "descrizione": "",
+  "youtubeCode": "haeMJXEJvgw",
+  "updated_at": {
+    "$date": "2017-01-20T08:59:08.191Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T08:59:08.191Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5874b63d02a539420e69b3e1"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "f7eWDEOX5XQ",
+  "updated_at": {
+    "$date": "2017-01-10T10:23:57.803Z"
+  },
+  "created_at": {
+    "$date": "2017-01-10T10:23:57.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d19402a539723d6ec903"
+  },
+  "type": "media",
+  "title": "#5",
+  "descrizione": "",
+  "youtubeCode": "YHBju2bGiZI",
+  "updated_at": {
+    "$date": "2017-01-20T09:00:04.327Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:00:04.327Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d21b02a53973cb11eb41"
+  },
+  "type": "media",
+  "title": "#9",
+  "descrizione": "",
+  "youtubeCode": "7tZ-wWP_YSY",
+  "updated_at": {
+    "$date": "2017-01-20T09:02:19.082Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:02:19.082Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d1fc02a539787b0a7b36"
+  },
+  "type": "media",
+  "title": "#8",
+  "descrizione": "",
+  "youtubeCode": "BEsb8_y3A5A",
+  "updated_at": {
+    "$date": "2017-01-20T09:01:48.627Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:01:48.627Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d1dd02a539723d6ec904"
+  },
+  "type": "media",
+  "title": "#7",
+  "descrizione": "",
+  "youtubeCode": "pGFrdQFwE-c",
+  "updated_at": {
+    "$date": "2017-01-20T09:01:17.920Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:01:17.920Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d25702a539787b0a7b37"
+  },
+  "type": "media",
+  "title": "#11",
+  "descrizione": "",
+  "youtubeCode": "ZOZGMhIdm-o",
+  "updated_at": {
+    "$date": "2017-01-20T09:03:19.559Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:03:19.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d2cc02a539787b0a7b38"
+  },
+  "type": "media",
+  "title": "#10",
+  "descrizione": "",
+  "youtubeCode": "apVHL87fVSI",
+  "updated_at": {
+    "$date": "2017-01-20T09:05:16.543Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:05:16.543Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d2ea02a539723d6ec905"
+  },
+  "type": "media",
+  "title": "#11",
+  "descrizione": "",
+  "youtubeCode": "ZOZGMhIdm-o",
+  "updated_at": {
+    "$date": "2017-01-20T09:05:46.159Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:05:46.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d31f02a539787b0a7b39"
+  },
+  "type": "media",
+  "title": "#12",
+  "descrizione": "",
+  "youtubeCode": "gXPZwJ6a5Lc",
+  "updated_at": {
+    "$date": "2017-01-20T09:06:39.482Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:06:39.482Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d1b302a539787b0a7b35"
+  },
+  "type": "media",
+  "title": "#6",
+  "descrizione": "",
+  "youtubeCode": "ijatfFulV5w",
+  "updated_at": {
+    "$date": "2017-01-20T09:00:35.195Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:00:35.195Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d33f02a539723d6ec906"
+  },
+  "type": "media",
+  "title": "#13",
+  "descrizione": "",
+  "youtubeCode": "MKXcdBJ_sO4",
+  "updated_at": {
+    "$date": "2017-01-20T09:07:11.008Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:07:11.008Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d35902a53973cb11eb42"
+  },
+  "type": "media",
+  "title": "#14",
+  "descrizione": "",
+  "youtubeCode": "9M_83qoUe-A",
+  "updated_at": {
+    "$date": "2017-01-20T09:07:37.275Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:07:37.275Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d3bf02a539787b0a7b3b"
+  },
+  "type": "media",
+  "title": "#17",
+  "descrizione": "",
+  "youtubeCode": "cOpEQgfMKIU",
+  "updated_at": {
+    "$date": "2017-01-20T09:09:19.966Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:09:19.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d3ed02a539723d6ec908"
+  },
+  "type": "media",
+  "title": "#18",
+  "descrizione": "",
+  "youtubeCode": "eJ0-7lO_YsU",
+  "updated_at": {
+    "$date": "2017-01-20T09:10:05.660Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:10:05.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d37402a539787b0a7b3a"
+  },
+  "type": "media",
+  "title": "#15",
+  "descrizione": "",
+  "youtubeCode": "bYKkyJ-cdXE",
+  "updated_at": {
+    "$date": "2017-01-20T09:08:04.742Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:08:04.742Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d40902a539787b0a7b3c"
+  },
+  "type": "media",
+  "title": "#19",
+  "descrizione": "",
+  "youtubeCode": "W_kF5CA9gFE",
+  "updated_at": {
+    "$date": "2017-01-20T09:10:33.110Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:10:33.110Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d45402a539787b0a7b3d"
+  },
+  "type": "media",
+  "title": "#21",
+  "descrizione": "",
+  "youtubeCode": "A8utY3KrVyQ",
+  "updated_at": {
+    "$date": "2017-01-20T09:11:48.166Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:11:48.166Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d42502a53973cb11eb43"
+  },
+  "type": "media",
+  "title": "#20",
+  "descrizione": "",
+  "youtubeCode": "qzK-JFDY6HQ",
+  "updated_at": {
+    "$date": "2017-01-20T09:11:01.846Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:11:01.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d47602a53973cb11eb44"
+  },
+  "type": "media",
+  "title": "#22",
+  "descrizione": "",
+  "youtubeCode": "ZFblGmT15-U",
+  "updated_at": {
+    "$date": "2017-01-20T09:12:22.140Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:12:22.140Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d39002a539723d6ec907"
+  },
+  "type": "media",
+  "title": "#16",
+  "descrizione": "",
+  "youtubeCode": "iIomK6C0JmA",
+  "updated_at": {
+    "$date": "2017-01-20T09:08:48.405Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:08:32.433Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d4cd02a53973cb11eb45"
+  },
+  "type": "media",
+  "title": "#25",
+  "descrizione": "",
+  "youtubeCode": "YSVe171eT5Q",
+  "updated_at": {
+    "$date": "2017-01-20T09:13:49.586Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:13:49.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d4ea02a539723d6ec90a"
+  },
+  "type": "media",
+  "title": "#26",
+  "descrizione": "",
+  "youtubeCode": "UuDxo-tliIM",
+  "updated_at": {
+    "$date": "2017-01-20T09:14:18.070Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:14:18.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d4b202a539787b0a7b3e"
+  },
+  "type": "media",
+  "title": "#24",
+  "descrizione": "",
+  "youtubeCode": "ipjx8D6p7FQ",
+  "updated_at": {
+    "$date": "2017-01-20T09:13:22.868Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:13:22.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881e22002a53924580a6392"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "wC6diR93Aio",
+  "updated_at": {
+    "$date": "2017-01-20T10:10:40.092Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T10:10:40.092Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d50502a539787b0a7b3f"
+  },
+  "type": "media",
+  "title": "#27",
+  "descrizione": "",
+  "youtubeCode": "h1YZsfrslgQ",
+  "updated_at": {
+    "$date": "2017-01-20T09:14:45.882Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:14:45.882Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881e6c202a5392393101295"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "LL2iLnd9TDw",
+  "updated_at": {
+    "$date": "2017-01-20T10:30:26.851Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T10:30:26.851Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881e63202a5392393101294"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "aJfpRxMjV9U",
+  "updated_at": {
+    "$date": "2017-01-20T10:28:02.838Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T10:28:02.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881fa6202a53935ab721354"
+  },
+  "type": "media",
+  "title": "Il film",
+  "descrizione": "",
+  "youtubeCode": "IDdfDUUPCD8",
+  "updated_at": {
+    "$date": "2017-01-20T11:54:10.991Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T11:54:10.991Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881d49202a539723d6ec909"
+  },
+  "type": "media",
+  "title": "#23",
+  "descrizione": "",
+  "youtubeCode": "5tHSTs8WDms",
+  "updated_at": {
+    "$date": "2017-01-20T09:15:04.285Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T09:12:50.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d05d147c42315f6735a3"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torini",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/embed/6VJbudLGe7M?autoplay=1&showinfo=0",
+  "updated_at": {
+    "$date": "2019-11-06T13:53:33.076Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T13:53:33.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "588522e302a5394f25376153"
+  },
+  "type": "media",
+  "title": "Una sequenza della versione televisiva",
+  "descrizione": "",
+  "youtubeCode": "D8ZO0tAgBuQ",
+  "updated_at": {
+    "$date": "2017-01-22T21:23:47.595Z"
+  },
+  "created_at": {
+    "$date": "2017-01-22T21:23:47.595Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5881ffd402a539378a3cc7e7"
+  },
+  "type": "media",
+  "title": "Il film",
+  "descrizione": "",
+  "youtubeCode": "06kOTZpFBEs",
+  "updated_at": {
+    "$date": "2017-01-20T12:17:24.695Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T12:17:24.695Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d1b4147c42315f6735a4"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/embed/6VJbudLGe7M?autoplay=1&showinfo=0",
+  "updated_at": {
+    "$date": "2019-11-06T13:59:16.844Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T13:59:16.844Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d2fe147c42313923ec53"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/watch?v=6VJbudLGe7M",
+  "updated_at": {
+    "$date": "2019-11-06T14:04:46.447Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T14:04:46.447Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d35a147c42313c5b7ac8"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "https://youtu.be/6VJbudLGe7M",
+  "updated_at": {
+    "$date": "2019-11-06T14:06:18.613Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T14:06:18.613Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d3b4147c4231513ff6b8"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "6VJbudLGe7M",
+  "updated_at": {
+    "$date": "2019-11-06T14:19:57.056Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T14:07:48.378Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d493147c4231472142e8"
+  },
+  "type": "media",
+  "title": "L' aquila bambina - Trailer",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/watch?v=6VJbudLGe7M&feature=youtu.be",
+  "updated_at": {
+    "$date": "2019-11-06T14:11:31.577Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T14:11:31.577Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5882014702a53939687e7902"
+  },
+  "type": "media",
+  "title": "Un frammento dello sceneggiato",
+  "descrizione": "",
+  "youtubeCode": "pZypdgTJ5lw",
+  "updated_at": {
+    "$date": "2017-01-20T12:23:35.675Z"
+  },
+  "created_at": {
+    "$date": "2017-01-20T12:23:35.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc2d7c3147c42313d7fe22b"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "6VJbudLGe7M",
+  "updated_at": {
+    "$date": "2019-11-06T14:25:07.884Z"
+  },
+  "created_at": {
+    "$date": "2019-11-06T14:25:07.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc52da7147c42314c3b2875"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "JBQcv1jkkgs",
+  "updated_at": {
+    "$date": "2019-11-08T08:56:07.171Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T08:56:07.171Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc53734147c425b9a3971c5"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "pbHzX9xl7-M",
+  "updated_at": {
+    "$date": "2019-11-08T09:36:52.865Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T09:36:52.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc53afd147c425ba306c092"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "4pUw5X8h-QA",
+  "updated_at": {
+    "$date": "2019-11-08T09:53:01.850Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T09:53:01.850Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc54390147c425bd40a9902"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "Q6SVka8ngfo",
+  "updated_at": {
+    "$date": "2019-11-08T10:29:36.491Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T10:29:36.491Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc54b54147c42315d4bef67"
+  },
+  "type": "media",
+  "title": "Trailer dello Spettacolo / Centro Studi Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "6xT4qv8rNvs",
+  "updated_at": {
+    "$date": "2019-11-08T11:02:44.127Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T11:02:44.127Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc54d45147c425b92785ca2"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "hozVZ2pncTs",
+  "updated_at": {
+    "$date": "2019-11-08T11:11:01.508Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T11:11:01.508Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc551b0147c425bc93f3682"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "TtClMFZx4UY",
+  "updated_at": {
+    "$date": "2019-11-08T11:29:52.367Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T11:29:52.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc532e9147c425b8f390ac2"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "EcK1F37KtxU",
+  "updated_at": {
+    "$date": "2019-11-08T09:18:33.044Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T09:18:33.044Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc55f9c147c42314b29a908"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "JBQcv1jkkgs&t",
+  "updated_at": {
+    "$date": "2019-11-08T12:29:16.062Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T12:29:16.062Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc558dc147c425b93156703"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "qa-4F9pMfaA",
+  "updated_at": {
+    "$date": "2019-11-08T12:00:28.417Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T12:00:28.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc55f06147c425bd1223132"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "JBQcv1jkkgs&t=4s",
+  "updated_at": {
+    "$date": "2019-11-08T12:26:46.610Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T12:26:46.610Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc56104147c425b96080162"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "JBQcv1jkkgs",
+  "updated_at": {
+    "$date": "2019-11-08T12:35:16.488Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T12:35:16.488Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc92cc1147c425bd3705fc2"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "pMpbHMY0WF4",
+  "updated_at": {
+    "$date": "2019-11-11T09:41:21.463Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T09:41:21.463Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc934ce147c425bcf40bd12"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo ",
+  "descrizione": "",
+  "youtubeCode": "C_RlXa4Mqqo",
+  "updated_at": {
+    "$date": "2019-11-11T10:15:42.926Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T10:15:42.926Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc938f6147c425bca363cf3"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "LfXD7dckDaQ",
+  "updated_at": {
+    "$date": "2019-11-11T10:33:26.538Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T10:33:26.538Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc93bfb147c425b91055e46"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "kFsvtjhJWLQ",
+  "updated_at": {
+    "$date": "2019-11-11T10:46:19.574Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T10:46:19.574Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc55e96147c425bcc350152"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo / Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "JBQcv1jkkgs&t=4s",
+  "updated_at": {
+    "$date": "2019-11-08T12:24:54.331Z"
+  },
+  "created_at": {
+    "$date": "2019-11-08T12:24:54.331Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc99802147c42315a1e44dc"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "kwCkDoOi61I",
+  "updated_at": {
+    "$date": "2019-11-11T17:18:58.578Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T17:18:58.578Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc93fcc147c4231454b2d56"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "xnUhU5SuxO4",
+  "updated_at": {
+    "$date": "2019-11-11T11:02:36.012Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T11:02:36.012Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc94f99147c425bae575e75"
+  },
+  "type": "media",
+  "title": "Trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "4huHXCXIwAw",
+  "updated_at": {
+    "$date": "2019-11-11T12:10:01.976Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T12:10:01.976Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dd3fbf8147c4205786eeb72"
+  },
+  "type": "media",
+  "title": "La prima delle sei puntate",
+  "descrizione": "",
+  "youtubeCode": "OWvVnjZKWDg",
+  "updated_at": {
+    "$date": "2019-11-19T14:28:08.933Z"
+  },
+  "created_at": {
+    "$date": "2019-11-19T14:28:08.933Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e7f90442e8170522e0afbc2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 1: Rosso, Nero e ignorante - clip 1 con Massimo Popolizio e Melania Giglio",
+  "descrizione": "",
+  "youtubeCode": "vtYNh7KZ3cA&t=55s",
+  "updated_at": {
+    "$date": "2020-03-28T17:58:28.070Z"
+  },
+  "created_at": {
+    "$date": "2020-03-28T17:58:28.070Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e8089d5af03e70811007bd2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 1: Rosso, Nero e ignorante. Clip 1: Massimo Popolizio, Melania Giglio ",
+  "descrizione": "",
+  "youtubeCode": "vtYNh7KZ3cA",
+  "updated_at": {
+    "$date": "2020-03-29T11:46:02.629Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:43:17.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808b08c9236f21a5584192"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 1: Rosso, Nero e ignorante. Clip 2: Massimo Popolizio, Franca Penone, Nanni Tormen",
+  "descrizione": "",
+  "youtubeCode": "NOuQRrk-GRM",
+  "updated_at": {
+    "$date": "2020-03-29T11:49:41.490Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:48:24.515Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808ba6c0da961c201c1a92"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 1: Rosso, Nero e ignorante. Clip 3: Massimo Popolizio, Franca Penone, Nanni Tormen",
+  "descrizione": "",
+  "youtubeCode": "20aYyseYtEQ",
+  "updated_at": {
+    "$date": "2020-03-29T11:51:02.984Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:51:02.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5dc94605147c425b8a447822"
+  },
+  "type": "media",
+  "title": "Il trailer dello spettacolo/Centro Studi del Teatro Stabile di Torino",
+  "descrizione": "",
+  "youtubeCode": "wN-iDV3v_TE",
+  "updated_at": {
+    "$date": "2019-11-11T11:29:09.991Z"
+  },
+  "created_at": {
+    "$date": "2019-11-11T11:29:09.991Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808c34ea9c2f0b7972c882"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 5: Massimo Popolizio, Alessandro Loi",
+  "descrizione": "",
+  "youtubeCode": "h4vYCX3y3jM",
+  "updated_at": {
+    "$date": "2020-03-29T11:53:24.586Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:53:24.586Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808bf3e3ae1b1fcf544382"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 4: Marco Toloni, Lino Guanciale , Alfonso Veneroso, Francesco Vitale, Umberto Petranca, Alessandro Loi",
+  "descrizione": "",
+  "youtubeCode": "5Ap44cRZZwQ",
+  "updated_at": {
+    "$date": "2020-03-29T11:52:19.129Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:52:19.129Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808d9b8f81856c9551f362"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 7: Massimo Popolizio",
+  "descrizione": "",
+  "youtubeCode": "-ikJ-1Pmm00",
+  "updated_at": {
+    "$date": "2020-03-29T11:59:23.333Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:59:23.333Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808dd32c4cac251764afb2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 8: Massimo Popolizio",
+  "descrizione": "",
+  "youtubeCode": "jY3m7q1Ouck",
+  "updated_at": {
+    "$date": "2020-03-29T12:00:19.471Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T12:00:19.471Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808e346b67705bc54cfd32"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 9: Massimo Popolizio, Francesco Rossini, Lino Guanciale, Alfonso Veneroso, Francesco Vitale, Umberto Petranca, Alessandro Loi",
+  "descrizione": "",
+  "youtubeCode": "Bl1MX7Qzk4I",
+  "updated_at": {
+    "$date": "2020-03-29T12:01:56.225Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T12:01:56.225Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808e81d756b9120e1beba2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 10: Massimo Popolizio, Raffaella Boscolo",
+  "descrizione": "",
+  "youtubeCode": "PEVpMVjn-zs",
+  "updated_at": {
+    "$date": "2020-03-29T12:03:13.606Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T12:03:13.606Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808ed308ef4c5415594ca2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 11: Massimo Popolizio, Christian Giammarini",
+  "descrizione": "",
+  "youtubeCode": "U1MDdh7OUIA",
+  "updated_at": {
+    "$date": "2020-03-29T12:04:35.205Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T12:04:35.205Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808f0b763a7d362713d0d2"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 12: Massimo Popolizio",
+  "descrizione": "",
+  "youtubeCode": "GiVeW34RtzQ",
+  "updated_at": {
+    "$date": "2020-03-29T12:05:31.892Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T12:05:31.892Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e808d45d9884332ec7f2442"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi - ATTO 3: La grande pace. Clip 6: Massimo Popolizio, Laura Nardi",
+  "descrizione": "",
+  "youtubeCode": "whK9LfAz2Xo",
+  "updated_at": {
+    "$date": "2020-03-29T11:57:57.724Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T11:57:57.724Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e809d43d7ef4c5438625352"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "https://www.raiplay.it/programmi/lascuoladestate",
+  "updated_at": {
+    "$date": "2020-03-29T13:06:11.099Z"
+  },
+  "created_at": {
+    "$date": "2020-03-29T13:06:11.099Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5e89d83c8905d248c6791d22"
+  },
+  "type": "media",
+  "title": "Atti di guerra di Edward Bond. Regia di Luca Ronconi. ATTO 3: La grande pace. Clip 8: Massimo Popolizio",
+  "descrizione": "",
+  "youtubeCode": "mKMKdRRm-j0",
+  "updated_at": {
+    "$date": "2020-04-05T13:09:14.332Z"
+  },
+  "created_at": {
+    "$date": "2020-04-05T13:08:12.777Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad3bd3984f107e87af6a2"
+  },
+  "type": "media",
+  "title": "«Un altro gabbiano» - Parte 1",
+  "descrizione": "",
+  "youtubeCode": "cBiTsc4BxwY&t=620s",
+  "updated_at": {
+    "$date": "2020-04-30T13:33:49.737Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:33:49.737Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad4db0e4e3a70ee379342"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "cBiTsc4BxwY&t=620s",
+  "updated_at": {
+    "$date": "2020-04-30T13:38:35.133Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:38:35.133Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad525e96c9531366627b2"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "cBiTsc4BxwY&t=747s",
+  "updated_at": {
+    "$date": "2020-04-30T13:39:49.698Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:39:49.698Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad5517578946c0c6e7732"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "DCZAiL461bU&t=121s",
+  "updated_at": {
+    "$date": "2020-04-30T13:40:33.094Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:40:33.094Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad5d34ca3372d2a745d92"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "cBiTsc4BxwY&t=747s",
+  "updated_at": {
+    "$date": "2020-04-30T13:42:43.355Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:42:43.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eaad5eeced5076f285b8192"
+  },
+  "type": "media",
+  "title": "",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/watch?v=cBiTsc4BxwY&t=747s",
+  "updated_at": {
+    "$date": "2020-04-30T13:43:10.999Z"
+  },
+  "created_at": {
+    "$date": "2020-04-30T13:43:10.999Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eac1438b6d8b250a7131642"
+  },
+  "type": "media",
+  "title": "«Un altro gabbiano» - spettacolo I parte",
+  "descrizione": "",
+  "youtubeCode": "cBiTsc4BxwY",
+  "updated_at": {
+    "$date": "2020-05-01T12:21:12.081Z"
+  },
+  "created_at": {
+    "$date": "2020-05-01T12:21:12.081Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5eac1476e413b515aa248822"
+  },
+  "type": "media",
+  "title": "«Un altro gabbiano» - spettacolo II parte",
+  "descrizione": "",
+  "youtubeCode": "DCZAiL461bU",
+  "updated_at": {
+    "$date": "2020-05-01T12:22:14.779Z"
+  },
+  "created_at": {
+    "$date": "2020-05-01T12:22:14.779Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ec6723541ccba08874ceeb2"
+  },
+  "type": "media",
+  "title": "Amor nello specchio - ripresa integrale dello spettacolo",
+  "descrizione": "",
+  "youtubeCode": "WhV2G1uMpDk",
+  "updated_at": {
+    "$date": "2020-05-21T12:22:47.138Z"
+  },
+  "created_at": {
+    "$date": "2020-05-21T12:21:09.323Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ec6725941ccba08874ceeb3"
+  },
+  "type": "media",
+  "title": "Special Riflessi d'amore, realizzato da Ariella Beddini",
+  "descrizione": "",
+  "youtubeCode": "X-RDD4Kcx1g",
+  "updated_at": {
+    "$date": "2020-05-21T12:23:09.025Z"
+  },
+  "created_at": {
+    "$date": "2020-05-21T12:21:45.365Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ec67270881ccf54b160d0b2"
+  },
+  "type": "media",
+  "title": "Prove Amor nello specchio",
+  "descrizione": "",
+  "youtubeCode": "u7ZjFRmcReE",
+  "updated_at": {
+    "$date": "2020-05-21T12:23:53.438Z"
+  },
+  "created_at": {
+    "$date": "2020-05-21T12:22:08.805Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d02e9cabfe61bf1e8502"
+  },
+  "type": "media",
+  "title": "Danza Macabra",
+  "descrizione": "",
+  "youtubeCode": "https://www.youtube.com/watch?v=8vmakJ1PT5Y",
+  "updated_at": {
+    "$date": "2020-07-08T13:54:54.021Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T13:54:54.021Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d1ba82e99b57236c43b2"
+  },
+  "type": "media",
+  "title": "Mistero doloroso",
+  "descrizione": "",
+  "youtubeCode": "https://youtu.be/Gies_bibNtM",
+  "updated_at": {
+    "$date": "2020-07-08T14:01:30.197Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:01:30.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d685d3b487156572b952"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "8vmakJ1PT5Y",
+  "updated_at": {
+    "$date": "2020-07-08T14:22:50.862Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:21:57.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d710e8120d3c244c8a72"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "Gies_bibNtM",
+  "updated_at": {
+    "$date": "2020-07-08T14:24:51.111Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:24:16.367Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d8dbe6896747454c0ce2"
+  },
+  "type": "media",
+  "title": "Regia televisiva di Giuseppe Bertolucci",
+  "descrizione": "",
+  "youtubeCode": "9GfFnw7pZ9g",
+  "updated_at": {
+    "$date": "2020-07-08T14:31:55.762Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:31:55.762Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05d9adce52880aab3f1282"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "giJmBkr2ctc",
+  "updated_at": {
+    "$date": "2020-07-08T14:35:25.864Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:35:25.864Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05da331dbd9402a22c02b2"
+  },
+  "type": "media",
+  "title": "Video integrale",
+  "descrizione": "",
+  "youtubeCode": "t2qWGvBgMMo",
+  "updated_at": {
+    "$date": "2020-07-08T14:37:39.517Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:37:39.517Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05dac69fd7693ad35ac882"
+  },
+  "type": "media",
+  "title": "Versione televisiva - Parte 1",
+  "descrizione": "",
+  "youtubeCode": "goseep3oELk",
+  "updated_at": {
+    "$date": "2020-07-08T14:40:06.483Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:40:06.483Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05daf4c8d56b7c172e2d12"
+  },
+  "type": "media",
+  "title": "Versione televisiva - Parte 2",
+  "descrizione": "",
+  "youtubeCode": "EDTvu7bjlwU",
+  "updated_at": {
+    "$date": "2020-07-08T14:40:52.362Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:40:52.362Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05db7c45d8922c54663ba2"
+  },
+  "type": "media",
+  "title": "Conferenza stampa",
+  "descrizione": "",
+  "youtubeCode": "PdM6YGlaiYQ",
+  "updated_at": {
+    "$date": "2020-07-08T16:05:32.251Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:43:08.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05dbe811a08059d5260422"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "2gudRob5u2c",
+  "updated_at": {
+    "$date": "2020-07-08T14:44:56.414Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:44:56.414Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05dc48c71b7523ce095ba2"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "bQo_vbUUAEA",
+  "updated_at": {
+    "$date": "2020-07-08T14:46:32.162Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:46:32.162Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05dcbf6351766b9f2d2c22"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "5xZNqpsVsuY",
+  "updated_at": {
+    "$date": "2020-07-08T14:48:31.209Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:48:31.209Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05dd2e4435ce6dda326422"
+  },
+  "type": "media",
+  "title": "Estratti dallo spettacolo",
+  "descrizione": "",
+  "youtubeCode": "FDFZLAvwVro",
+  "updated_at": {
+    "$date": "2020-07-08T14:52:07.144Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:50:22.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05de03c8644b28fd0bc622"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "4AEeH65tp6U",
+  "updated_at": {
+    "$date": "2020-07-08T14:53:55.076Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:53:55.076Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05de9881eae804d246f542"
+  },
+  "type": "media",
+  "title": "Teaser",
+  "descrizione": "",
+  "youtubeCode": "4BtQhW8mCBA",
+  "updated_at": {
+    "$date": "2020-07-08T14:56:24.389Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T14:56:24.389Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e0f62f4ef56fcb11c3f2"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "mU70S8gbdcY",
+  "updated_at": {
+    "$date": "2020-07-08T15:06:52.746Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:06:30.758Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e14f617a8a3b1776a472"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "CQ78LcBw1-w",
+  "updated_at": {
+    "$date": "2020-07-08T15:07:59.374Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:07:59.374Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e3f76021796c6c494752"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "b_g9RBsDHjk",
+  "updated_at": {
+    "$date": "2020-07-08T15:19:19.921Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:19:19.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e4dc4c6b4d2b3d1a0922"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "DmoYAHrw0O4",
+  "updated_at": {
+    "$date": "2020-07-08T15:23:08.761Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:23:08.761Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e5157e63c8170d530bd2"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "OpT3m1TV-Hk",
+  "updated_at": {
+    "$date": "2020-07-08T15:24:05.403Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:24:05.403Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e5c95d284725ce7533d2"
+  },
+  "type": "media",
+  "title": "Estratto",
+  "descrizione": "",
+  "youtubeCode": "Ka_HPjMD-vk",
+  "updated_at": {
+    "$date": "2020-07-08T15:27:05.670Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:27:05.670Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e65a00ceda61b0539db2"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "RToYUre3y80",
+  "updated_at": {
+    "$date": "2020-07-08T15:29:30.407Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:29:30.407Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e6a0003dce2e4b6f7002"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "cnrpDRrHkrQ",
+  "updated_at": {
+    "$date": "2020-07-08T15:30:40.871Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:30:40.871Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e6e9bba69111ac087592"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "PIL0N8H5i7I",
+  "updated_at": {
+    "$date": "2020-07-08T15:31:53.884Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:31:53.884Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e72ca05676004207bf02"
+  },
+  "type": "media",
+  "title": "Spettacolo integrale",
+  "descrizione": "",
+  "youtubeCode": "4hN3I6QSszc",
+  "updated_at": {
+    "$date": "2020-07-08T15:33:00.796Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:33:00.796Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e7bfa7f83a584a1a85d2"
+  },
+  "type": "media",
+  "title": "Estratto dello spettacolo",
+  "descrizione": "",
+  "youtubeCode": "kha97oMEeH0",
+  "updated_at": {
+    "$date": "2020-07-08T15:35:27.425Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:35:27.425Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e84798e4725ecb77e5c2"
+  },
+  "type": "media",
+  "title": "Estratto dal finale",
+  "descrizione": "",
+  "youtubeCode": "QO6MNafseCA",
+  "updated_at": {
+    "$date": "2020-07-08T15:37:43.591Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:37:43.591Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e90817160f05b264c702"
+  },
+  "type": "media",
+  "title": "Estratto dallo spettacolo",
+  "descrizione": "",
+  "youtubeCode": "TPaxnQJz-1o",
+  "updated_at": {
+    "$date": "2020-07-08T15:40:56.687Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:40:56.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e98bca05c91ddc0bb3d2"
+  },
+  "type": "media",
+  "title": "Estratti dallo spettacolo con interviste",
+  "descrizione": "",
+  "youtubeCode": "lPPuQyoc1r0",
+  "updated_at": {
+    "$date": "2020-07-08T15:43:07.956Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:43:07.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05e9d8cdc85f69ee693082"
+  },
+  "type": "media",
+  "title": "Estratto - Cavatina di Agorante",
+  "descrizione": "",
+  "youtubeCode": "WvEPl27RZzw",
+  "updated_at": {
+    "$date": "2020-07-08T15:44:24.251Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:44:24.251Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05ea62182d7d4fd9239612"
+  },
+  "type": "media",
+  "title": "Estratto - Marcia trionfale",
+  "descrizione": "",
+  "youtubeCode": "shY4vcQ0qjY",
+  "updated_at": {
+    "$date": "2020-07-08T15:46:42.814Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:46:42.814Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05eaa93667475d866ba0d2"
+  },
+  "type": "media",
+  "title": "Estratto - Gran pezzo concertato a 14 voci (allestimento 2009)",
+  "descrizione": "",
+  "youtubeCode": "lPSy0ze7d60",
+  "updated_at": {
+    "$date": "2020-07-08T15:58:27.317Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:47:53.663Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05eb35c46744095377e252"
+  },
+  "type": "media",
+  "title": "Estratto - \"Partir o ciel desio\" (allestimento 2009)",
+  "descrizione": "",
+  "youtubeCode": "1FCNhArfjgc",
+  "updated_at": {
+    "$date": "2020-07-08T15:55:08.516Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:50:13.248Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05eb8e37f2791a2f6abb12"
+  },
+  "type": "media",
+  "title": "Estratto - \"A tal colpo inaspettato\" (allestimento 2009)",
+  "descrizione": "",
+  "youtubeCode": "oIPFYAelOPs",
+  "updated_at": {
+    "$date": "2020-07-08T15:55:57.251Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:51:42.781Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05ebcb48d8ac6800184cd2"
+  },
+  "type": "media",
+  "title": "Estratto - Finale (allestimento 2009)",
+  "descrizione": "",
+  "youtubeCode": "AFB7za8Xkeo",
+  "updated_at": {
+    "$date": "2020-07-08T15:56:11.032Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:52:43.726Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05ebf048d8ac6800184cd3"
+  },
+  "type": "media",
+  "title": "Estratto - Inni e finale (allestimento 2009)",
+  "descrizione": "",
+  "youtubeCode": "tD-4a5qrpic",
+  "updated_at": {
+    "$date": "2020-07-08T15:53:20.216Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T15:53:20.216Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05eef8ce08126f2a0fba32"
+  },
+  "type": "media",
+  "title": "Incontro \"La Borsa apre ai Lehman con il Teatro\"",
+  "descrizione": "",
+  "youtubeCode": "0nBJwQKL7q0",
+  "updated_at": {
+    "$date": "2020-07-08T16:06:16.149Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:06:16.149Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05ef0ece08126f2a0fba33"
+  },
+  "type": "media",
+  "title": "Trailer",
+  "descrizione": "",
+  "youtubeCode": "95RK2PO_oxY",
+  "updated_at": {
+    "$date": "2020-07-08T16:06:38.672Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:06:38.672Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f0386f66715621186c82"
+  },
+  "type": "media",
+  "title": "Incontro con Ronconi e Quadri dopo la prima",
+  "descrizione": "",
+  "youtubeCode": "83KDz5HL-N4",
+  "updated_at": {
+    "$date": "2020-07-08T16:11:36.519Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:11:36.519Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f0ec86da4b70ff067cb2"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "VA2ge8f68IM",
+  "updated_at": {
+    "$date": "2020-07-08T16:14:36.760Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:14:36.760Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f13598d2d8009e0621e2"
+  },
+  "type": "media",
+  "title": "Incontro con Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "k5KHR2pDcEQ",
+  "updated_at": {
+    "$date": "2020-07-08T16:15:49.798Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:15:49.798Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f1992def1c79a811cb52"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "YRW_LeNZQsw",
+  "updated_at": {
+    "$date": "2020-07-08T16:17:29.359Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:17:29.359Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f1c01f48072be9395332"
+  },
+  "type": "media",
+  "title": "Incontro con Ronconi & Spregelburd",
+  "descrizione": "",
+  "youtubeCode": "vdeLmD8-aTQ",
+  "updated_at": {
+    "$date": "2020-07-08T16:18:08.751Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:18:08.751Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f2db968d1b129c1f2892"
+  },
+  "type": "media",
+  "title": "Intervisa a Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "cMDpld3-wLg",
+  "updated_at": {
+    "$date": "2020-07-08T16:22:51.320Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:22:51.320Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f33003cd4504a6617a82"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi (parte 1)",
+  "descrizione": "",
+  "youtubeCode": "1uzbDH-BMds",
+  "updated_at": {
+    "$date": "2020-07-08T16:24:16.817Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:24:16.817Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f34003cd4504a6617a83"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi (parte 2)",
+  "descrizione": "",
+  "youtubeCode": "fmboCPcXaDs",
+  "updated_at": {
+    "$date": "2020-07-08T16:24:32.745Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:24:32.745Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f39ca3f2134dd66be552"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi (parte 3)",
+  "descrizione": "",
+  "youtubeCode": "ZxiuTCUDq9I",
+  "updated_at": {
+    "$date": "2020-07-08T16:26:04.392Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:26:04.392Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f3b9a3f2134dd66be553"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi (parte 4)",
+  "descrizione": "",
+  "youtubeCode": "CGtqRIzg3qk",
+  "updated_at": {
+    "$date": "2020-07-08T16:26:33.245Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:26:33.245Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f3d3f66be1217c67cb62"
+  },
+  "type": "media",
+  "title": "Incontro con Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "MnOFERupCeI",
+  "updated_at": {
+    "$date": "2020-07-08T16:26:59.363Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:26:59.363Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05f43685414072ee2509c2"
+  },
+  "type": "media",
+  "title": "Intervista a Luca Ronconi",
+  "descrizione": "",
+  "youtubeCode": "IMKjpgURVEg",
+  "updated_at": {
+    "$date": "2020-07-08T16:28:38.616Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T16:28:38.616Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f7c5d4e3f7d7a6e043231f2"
+  },
+  "type": "media",
+  "title": "Lo spettacolo",
+  "descrizione": "",
+  "youtubeCode": "JeoWIvx57Jg",
+  "updated_at": {
+    "$date": "2020-10-06T12:04:30.105Z"
+  },
+  "created_at": {
+    "$date": "2020-10-06T12:04:30.105Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "600d77aaf993b35d06695c62"
+  },
+  "type": "media",
+  "title": "Don Carlo - opera integrale, Parte I",
+  "descrizione": "",
+  "youtubeCode": "lBqV4ZD2rX8",
+  "updated_at": {
+    "$date": "2021-01-24T13:35:38.183Z"
+  },
+  "created_at": {
+    "$date": "2021-01-24T13:35:38.183Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "600d77f3fbf41b6406108822"
+  },
+  "type": "media",
+  "title": "Don Carlo - opera integrale, Parte II",
+  "descrizione": "",
+  "youtubeCode": "VvVwrGSHXEQ",
+  "updated_at": {
+    "$date": "2021-01-24T13:37:33.241Z"
+  },
+  "created_at": {
+    "$date": "2021-01-24T13:36:51.455Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "605894191f7e1d424b6f3662"
+  },
+  "type": "media",
+  "title": "Faust - Ripresa del 1985",
+  "descrizione": "",
+  "youtubeCode": "GSdfTpT7ALg",
+  "updated_at": {
+    "$date": "2021-03-22T12:57:56.965Z"
+  },
+  "created_at": {
+    "$date": "2021-03-22T12:56:57.815Z"
+  }
+}]

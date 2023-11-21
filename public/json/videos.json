@@ -1,0 +1,1504 @@
+[{
+  "_id": {
+    "$oid": "5ef5ebcd9365ca1388660582"
+  },
+  "title": "Danza macabra",
+  "link": "https://www.youtube.com/watch?v=8vmakJ1PT5Y",
+  "description": "<p>2014</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/danza-macabra\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-07-08T14:06:50.583Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:36:29.694Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef5ec83de1dfe5f591d5892"
+  },
+  "title": "Mistero doloroso",
+  "link": "https://www.youtube.com/watch?v=Gies_bibNtM",
+  "description": "<p>2012</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/mistero-doloroso\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-06-26T12:40:38.530Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:39:31.712Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef5ee9f5193c6491d29fdd2"
+  },
+  "title": "Quer pasticciaccio brutto de via Merulana",
+  "link": "https://www.youtube.com/watch?v=9GfFnw7pZ9g",
+  "description": "<p>1996</p>\r\n\r\n<p>Regia televisiva di Giuseppe Bertolucci</p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-06-26T13:00:14.067Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:48:31.274Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef5f04984f81768177ebc02"
+  },
+  "title": "Dio ne scampi",
+  "link": "https://www.youtube.com/watch?v=giJmBkr2ctc",
+  "description": "<p>1995</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/dio-ne-scampi\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-06-26T13:00:22.689Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:55:37.615Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef5f12485f7cf2a04573652"
+  },
+  "title": "Un altro gabbiano - Parte I",
+  "link": "https://www.youtube.com/watch?v=cBiTsc4BxwY&t=1009s",
+  "description": "<p>2009</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/un-altro-gabbiano\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-06-26T12:59:16.316Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:59:16.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef5f1a216099e489428e5e2"
+  },
+  "title": "Un altro gabbiano - Parte II",
+  "link": "https://www.youtube.com/watch?v=DCZAiL461bU&t=276s",
+  "description": "<p>2009</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-06-26T13:01:22.396Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T13:01:22.396Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef705b9f248cd703f200ba2"
+  },
+  "title": "Amor nello specchio",
+  "link": "https://www.youtube.com/watch?v=WhV2G1uMpDk&t=7726s",
+  "description": "<p>2002</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/amor-nello-specchio\" target=\"_blank\">Scheda spettacolo</a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-06-27T08:39:21.267Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T08:39:21.267Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef7066d8dfac36ae91d2082"
+  },
+  "title": "John Gabriel Borkman ",
+  "link": "https://www.youtube.com/watch?v=t2qWGvBgMMo",
+  "description": "<p>1982</p>\r\n\r\n<p>TV</p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "6",
+  "updated_at": {
+    "$date": "2020-06-27T08:42:21.887Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T08:42:21.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef70949cff9301b8d0a74c2"
+  },
+  "title": "Orlando Furioso - Parte I",
+  "link": "https://www.youtube.com/watch?v=goseep3oELk",
+  "description": "<p>1975</p>\r\n\r\n<p>Versione televisiva - <a href=\"https://lucaronconi.it/scheda/extra/orlando-furioso-tv-5-puntate\" target=\"_blank\">Scheda</a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "7",
+  "updated_at": {
+    "$date": "2020-06-27T09:31:02.597Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T08:54:33.009Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef711579c88900f564ecf62"
+  },
+  "title": "Orlando Furioso - Parte II",
+  "link": "https://www.youtube.com/watch?v=EDTvu7bjlwU",
+  "description": "<p>1975</p>\r\n\r\n<p>Versione televisiva - <a href=\"https://lucaronconi.it/scheda/extra/orlando-furioso-tv-5-puntate\" target=\"_blank\">Scheda</a></p>\r\n",
+  "category_id": "5ef5eb90b074490e921bf212",
+  "order": "8",
+  "updated_at": {
+    "$date": "2020-06-27T09:31:13.328Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T09:28:55.028Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef713c1dbf2c253e7751c02"
+  },
+  "title": "Tosca",
+  "link": "https://www.youtube.com/watch?v=cnrpDRrHkrQ&t=523s",
+  "description": "<p>1997 - Ripresa del 2000</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/opera/tosca\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-06-27T09:39:13.073Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T09:39:13.073Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef7143b7a9b376f5122b572"
+  },
+  "title": "Macbeth",
+  "link": "https://www.youtube.com/watch?v=4hN3I6QSszc",
+  "description": "<p>1980</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/opera/macbeth\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-06-27T09:41:15.917Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T09:41:15.917Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef88ee9157c9e4e1d0c1dd2"
+  },
+  "title": "La Borsa apre ai Lehman con il teatro",
+  "link": "https://www.youtube.com/watch?v=0nBJwQKL7q0",
+  "description": "<p>2015</p>\r\n\r\n<p><span dir=\"auto\">Incontro alla Borsa di Milano per ripercorrere la saga dei fratelli Lehman.</span></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-07-07T12:13:32.934Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:36:57.197Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef88fce75ce091fca2486d2"
+  },
+  "title": "Lehman Trilogy - conferenza stampa",
+  "link": "https://www.youtube.com/watch?v=PdM6YGlaiYQ",
+  "description": "<p>2015</p>\r\n\r\n<p>Conferenza stampa per il debutto di Lehman Trilogy al Piccolo Teatro di Milano.</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-07T12:14:42.724Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:40:46.731Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef89072d2a8d41d8131a7e2"
+  },
+  "title": "La Scuola d'estate - Incontro al TFF",
+  "link": "https://www.youtube.com/watch?v=83KDz5HL-N4",
+  "description": "<p>2014</p>\r\n\r\n<p><span dir=\"auto\">Incontro con Luca Ronconi e Jacopo Quadri dopo la prima di &laquo;La Scuola d&#39;estate&raquo; al 32&deg;Torino Film Festival. </span></p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-07T12:15:36.712Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:43:30.569Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef89116f49ed931172ebb32"
+  },
+  "title": "I critici e i pubblici - incontro",
+  "link": "https://www.youtube.com/watch?v=HSSN2L5acQM",
+  "description": "<p>2014</p>\r\n\r\n<p>Incontro tra Luca Ronconi e i critici teatrali Franco Cordelli e Paolo Di Stefano</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-06-28T12:47:06.027Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:46:14.559Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef8922015ca2870066d11b2"
+  },
+  "title": "Falstaff  - Intervista a Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=VA2ge8f68IM",
+  "description": "<p>2014</p>\r\n\r\n<p>Intervista a Luca Ronconi in occasione della ripresa del Falstaff all&#39;Opera di Firenze.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-06-28T12:50:40.238Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:50:40.238Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef8933c4befad16e87c82e2"
+  },
+  "title": "Luca Ronconi legge Eracle di Euripide",
+  "link": "https://www.youtube.com/watch?v=yfmkG7xxqhs",
+  "description": "<p>2013</p>\r\n\r\n<p>Luca Ronconi al Teatro Out Off di Milano legge e commenta brani da &ldquo;Eracle&rdquo; di Euripide.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "6",
+  "updated_at": {
+    "$date": "2020-07-07T12:17:35.388Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:55:24.182Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef8943deef3bf13cf2e7732"
+  },
+  "title": "Luca Ronconi e Umberto Eco à propos de Luciano Berio",
+  "link": "https://www.youtube.com/watch?v=GH91DKWJ1c0",
+  "description": "<p>2013</p>\r\n\r\n<p>Intervista a Ronconi e Eco su Luciano Berio, realizzata dalla Cit&eacute; de la Musique</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "7",
+  "updated_at": {
+    "$date": "2020-06-28T12:59:41.736Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:59:41.736Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007ae731f98e0651056bc2"
+  },
+  "title": "Luca Ronconi - Architetto di visioni",
+  "link": "https://www.youtube.com/watch?v=Lr3SC4nf3JI",
+  "description": "<p>2013</p>\r\n\r\n<p>Ronconi e i suoi collaboratori storici raccontano la loro ultradecennale esperienza creativa.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "8",
+  "updated_at": {
+    "$date": "2020-07-07T12:18:22.353Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T12:49:43.782Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007ba50acf3226a6122a82"
+  },
+  "title": "Il Panico - Intervista a Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=YRW_LeNZQsw",
+  "description": "<p>2013</p>\r\n\r\n<p>Intervista in occasione del debutto al Piccolo di Milano di <em>Il Panico</em> di Rafael Spregelburd</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "9",
+  "updated_at": {
+    "$date": "2020-07-04T12:54:00.064Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T12:52:53.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007c64cc6c306ddb70c9d2"
+  },
+  "title": "Il Panico - Incontro con Ronconi e Spregelburd",
+  "link": "https://www.youtube.com/watch?v=vdeLmD8-aTQ",
+  "description": "<p>2013</p>\r\n\r\n<p>Incontro al Piccolo di Milano con Luca Ronconi e Rafael Spregelburd in occasione del debutto di <em>Il Panico.</em></p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "10",
+  "updated_at": {
+    "$date": "2020-07-04T12:56:04.539Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T12:56:04.539Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007d3b04b4716d82077322"
+  },
+  "title": "Pornografia - Incontro con Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=k5KHR2pDcEQ",
+  "description": "<p>2014</p>\r\n\r\n<p>Incontro con Luca Ronconi per l&#39;allestimento di Pornografia di Witold Gombrowicz al Piccolo Teatro di Milano.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-07-07T12:17:14.307Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T12:59:39.562Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007ea906b2fc16ee0b02b2"
+  },
+  "title": "Lezione-incontro con Luca Ronconi al Teatro Valle occupato",
+  "link": "https://www.youtube.com/watch?v=LL2iLnd9TDw",
+  "description": "<p>30 ottobre 2012</p>\r\n\r\n<p>Incontro-lezione con Luca Ronconi, invitato a parlare dagli occupanti del Teatro Valle di Roma.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "11",
+  "updated_at": {
+    "$date": "2020-07-07T12:18:55.206Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T13:05:45.426Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007f5d5b7ad538f211f072"
+  },
+  "title": "Intervista a Luca Ronconi per la consegna del Leone d'oro",
+  "link": "https://www.youtube.com/watch?v=cMDpld3-wLg",
+  "description": "<p>2012</p>\r\n\r\n<p>Intervista a Luca Ronconi in occasione dell&#39;assegnazione del Leone d&#39;oro alla carriera.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "12",
+  "updated_at": {
+    "$date": "2020-07-04T13:08:45.047Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T13:08:45.047Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f007fc65b920e014022f502"
+  },
+  "title": "Incontro con Luca Ronconi per il Leone d'oro",
+  "link": "https://www.youtube.com/watch?v=wC6diR93Aio",
+  "description": "<p>2012</p>\r\n\r\n<p>Incontro con Luca Ronconi, in occasione della consegna del Leone d&#39;oro alla carriera.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "12",
+  "updated_at": {
+    "$date": "2020-07-04T13:10:30.823Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T13:10:30.823Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f00805c0c39251e08005d62"
+  },
+  "title": "Festival della Mente a Sarzana (Sp) - Incontro con Luca Ronconi e Gianfranco Capitta",
+  "link": "https://www.youtube.com/watch?v=bEgZaASfcZ4",
+  "description": "<p>2012</p>\r\n\r\n<p>Incontro con Luca Ronconi e Gianfranco Capitta in occasione della pubblicazione di Teatro della conoscenza.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "13",
+  "updated_at": {
+    "$date": "2020-07-07T12:20:02.586Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T13:13:00.368Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0080ef7ce97b1a12488a72"
+  },
+  "title": "Intervista a Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=AjyucT9lJkU",
+  "description": "<p>2011</p>\r\n\r\n<p>Per Leonardo TV intervista a Luca Ronconi nella sua casa di Santa Cristina (Pg).</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "14",
+  "updated_at": {
+    "$date": "2020-07-04T13:15:27.887Z"
+  },
+  "created_at": {
+    "$date": "2020-07-04T13:15:27.887Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c2fdb5b92874d842f772"
+  },
+  "title": "La compagnia degli uomini - Intervista a Luca Ronconi (parte I)",
+  "link": "https://www.youtube.com/watch?v=1uzbDH-BMds",
+  "description": "<p>2011</p>\r\n\r\n<p>A Retroscena (TV 2000) intervista a Luca Ronconi e agli attori della compagnia.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "15",
+  "updated_at": {
+    "$date": "2020-07-07T12:20:55.153Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:09:33.454Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c32b6d577a4a813d4d92"
+  },
+  "title": "La compagnia degli uomini - Intervista a Luca Ronconi (parte II)",
+  "link": "https://www.youtube.com/watch?v=fmboCPcXaDs",
+  "description": "<p>2011</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "16",
+  "updated_at": {
+    "$date": "2020-07-05T12:10:19.902Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:10:19.902Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c34bd3d603048c7bb322"
+  },
+  "title": "La compagnia degli uomini - Intervista a Luca Ronconi (parte III)",
+  "link": "https://www.youtube.com/watch?v=ZxiuTCUDq9I",
+  "description": "<p>2011</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "17",
+  "updated_at": {
+    "$date": "2020-07-05T12:13:03.658Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:10:51.895Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c38d4e576351f17e9552"
+  },
+  "title": "La compagnia degli uomini - Intervista a Luca Ronconi (parte IV)",
+  "link": "https://www.youtube.com/watch?v=CGtqRIzg3qk",
+  "description": "<p>2011</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "18",
+  "updated_at": {
+    "$date": "2020-07-05T12:11:57.256Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:11:57.256Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c4fb321fec6ae12d2982"
+  },
+  "title": "La compagnia degli uomini - Incontro con Luca Ronconi ",
+  "link": "https://www.youtube.com/watch?v=MnOFERupCeI&list=PL931EEC2AD0C300EE&index=2&t=0s",
+  "description": "<p>2011</p>\r\n\r\n<p>Incontro con Luca Ronconi per il debutto al Piccolo Teatro di Milano di La compagnia degli uomini.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "19",
+  "updated_at": {
+    "$date": "2020-07-07T12:25:25.248Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:18:03.093Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01c9595efedd5d912e2292"
+  },
+  "title": "Giusto la fine del mondo - Intervista a Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=IMKjpgURVEg",
+  "description": "<p>2009</p>\r\n\r\n<p>Intervista a Luca Ronconi per il debutto di Giusto la fine del mondo di Jean-Luc Lagarce al Piccolo di Milano.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "20",
+  "updated_at": {
+    "$date": "2020-07-07T12:27:36.874Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:36:41.861Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01ca6ea9fe6364287472e2"
+  },
+  "title": "Luca Ronconi intervistato da Enzo Biagi",
+  "link": "https://www.youtube.com/watch?v=6BI38C5Cqu4",
+  "description": "<p>1982</p>\r\n\r\n<p>Luca Ronconi si racconta in un&#39;intervista ad Enzo Biagi durante l&#39;allestimento di I Troiani al Teatro alla Scala di Milano.</p>\r\n",
+  "category_id": "5ef88e01793b93554b6898f2",
+  "order": "21",
+  "updated_at": {
+    "$date": "2020-07-05T12:41:18.159Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:41:18.159Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01ccdc707f97016c1b3fb2"
+  },
+  "title": "Lehman Trilogy - trailer",
+  "link": "https://www.youtube.com/watch?v=95RK2PO_oxY",
+  "description": "<p>2015</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/lehman-trilogy\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-07-05T12:51:40.046Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:51:40.046Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01cdb87a6ced71e9339932"
+  },
+  "title": "Celestina - trailer",
+  "link": "https://www.youtube.com/watch?v=2gudRob5u2c",
+  "description": "<p>2014</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/celestina-laggiu-vicino-alle-concerie-in-riva-al-fiume\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-05T12:55:20.203Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:55:20.203Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01ce2517947f2f71217b42"
+  },
+  "title": "Giusto la fine del mondo - trailer",
+  "link": "https://www.youtube.com/watch?v=4AEeH65tp6U",
+  "description": "<p>2009</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/giusto-la-fine-del-mondo\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-07-05T13:18:12.871Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:57:09.675Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01cf219ac2986f6a05f1e2"
+  },
+  "title": "Il panico - trailer",
+  "link": "https://www.youtube.com/watch?v=bQo_vbUUAEA",
+  "description": "<p>2013</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/il-panico\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-05T13:01:21.956Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:01:21.956Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d20fd4d01d023f595db2"
+  },
+  "title": "Nora alla prova - sequenze",
+  "link": "https://www.youtube.com/watch?v=5xZNqpsVsuY",
+  "description": "<p>2011</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/nora-alla-prova-da-casa-di-bambola\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-07-06T06:56:12.665Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:13:51.456Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d2f33e56482c2e6bf872"
+  },
+  "title": "I beati anni del castigo",
+  "link": "https://www.youtube.com/watch?v=FDFZLAvwVro",
+  "description": "<p>2010</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/i-beati-anni-del-castigo\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-07-05T13:17:39.337Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:17:39.337Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d3ef3c82bc3d34294a12"
+  },
+  "title": "Sogno di una notte di mezza estate - teaser e prove",
+  "link": "https://www.youtube.com/watch?v=4BtQhW8mCBA&list=PLMRLH2r8e_UEWlHInR222WdEfh-0gJfBB",
+  "description": "<p>2008</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/sogno-di-una-notte-di-mezza-estate\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "6",
+  "updated_at": {
+    "$date": "2020-07-05T13:21:51.687Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:21:51.687Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d4fe040322686d7ef902"
+  },
+  "title": "Fahrenheit 451 - Trailer",
+  "link": "https://www.youtube.com/watch?v=JBQcv1jkkgs",
+  "description": "<p>2007</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/fahrenheit-451\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "7",
+  "updated_at": {
+    "$date": "2020-07-05T13:26:22.868Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:26:22.868Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d58327b8200765658b32"
+  },
+  "title": "Troilo e Cressida - Trailer",
+  "link": "https://www.youtube.com/watch?v=Q6SVka8ngfo",
+  "description": "<p>2006</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/troilo-e-cressida\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "8",
+  "updated_at": {
+    "$date": "2020-07-05T13:28:35.038Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:28:35.038Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d6082a045161af7e9b32"
+  },
+  "title": "Biblioetica. Dizionario per l'uso - Trailer",
+  "link": "https://www.youtube.com/watch?v=EcK1F37KtxU",
+  "description": "<p>2006</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/biblioetica-dizionario-per-l-uso\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "9",
+  "updated_at": {
+    "$date": "2020-07-05T13:30:48.838Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:30:48.838Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d6c8f159e8548801d132"
+  },
+  "title": "Lo specchio del diavolo - Trailer",
+  "link": "https://www.youtube.com/watch?v=pbHzX9xl7-M",
+  "description": "<p>2006</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/lo-specchio-del-diavolo\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "10",
+  "updated_at": {
+    "$date": "2020-07-05T13:34:00.442Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:34:00.442Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d7326855e515ee27c892"
+  },
+  "title": "Il silenzio dei comunisti - trailer",
+  "link": "https://www.youtube.com/watch?v=4pUw5X8h-QA",
+  "description": "<p>2006</p>\r\n\r\n<p><strong><a href=\"https://lucaronconi.it/scheda/teatro/silenzio-dei-comunisti\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "11",
+  "updated_at": {
+    "$date": "2020-07-05T13:35:46.355Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:35:46.355Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01d7a1a9998d35cf650832"
+  },
+  "title": "Atti di guerra: una trilogia - Trailer",
+  "link": "https://www.youtube.com/watch?v=nfrWxEIPHXg",
+  "description": "<p>2006</p>\r\n\r\n<p><a href=\"https://lucaronconi.it/scheda/teatro/atti-di-guerra-una-trilogia\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "12",
+  "updated_at": {
+    "$date": "2020-07-05T13:37:37.970Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T13:37:37.970Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f046e3e2c002a3e881a9f72"
+  },
+  "title": "Peccato che fosse puttana - Trailer",
+  "link": "https://www.youtube.com/watch?v=mU70S8gbdcY",
+  "description": "<p>2003</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/peccato-che-fosse-puttana\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "14",
+  "updated_at": {
+    "$date": "2020-07-07T12:50:09.734Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T12:44:46.984Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f046f767b2706110c2dd492"
+  },
+  "title": "Ruy Blas - Trailer",
+  "link": "https://www.youtube.com/watch?v=CQ78LcBw1-w",
+  "description": "<p>1996</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/ruy-blas\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "15",
+  "updated_at": {
+    "$date": "2020-07-07T12:49:58.325Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T12:49:58.325Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0470237ef9ce2ea5066082"
+  },
+  "title": "Venezia salva - Trailer",
+  "link": "https://www.youtube.com/watch?v=6xT4qv8rNvs",
+  "description": "<p>1994</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/venezia-salva\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "16",
+  "updated_at": {
+    "$date": "2020-07-07T12:53:02.829Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T12:52:51.905Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0470bfe7642c4a7b7f1062"
+  },
+  "title": "L'affare Makropulos -  Trailer",
+  "link": "https://www.youtube.com/watch?v=hozVZ2pncTs",
+  "description": "<p>1993</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/l-affare-makropulos\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "17",
+  "updated_at": {
+    "$date": "2020-07-07T12:55:27.808Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T12:55:27.808Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f04715096eb2558777dcf92"
+  },
+  "title": "Pilade - Trailer",
+  "link": "https://www.youtube.com/watch?v=giNzVcYZc-M&t=2s",
+  "description": "<p>1993</p>\r\n\r\n<p><span dir=\"auto\">Saggio della Scuola di Teatro del Teatro Stabile di Torino - anno 1992/93</span></p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/scuola/scuola-del-teatro-stabile-di-torino-pilade\" target=\"_blank\">Scheda dello spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "18",
+  "updated_at": {
+    "$date": "2020-07-08T15:10:36.322Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T12:57:52.921Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0472465b15ae1a2d01b482"
+  },
+  "title": "Calderon - Trailer",
+  "link": "https://www.youtube.com/watch?v=b_g9RBsDHjk",
+  "description": "<p>1993</p>\r\n\r\n<p><span dir=\"auto\">Saggio della Scuola di Teatro del Teatro Stabile di Torino - anno 1992/1993</span></p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/scuola/scuola-del-teatro-stabile-di-torino-calderon\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "19",
+  "updated_at": {
+    "$date": "2020-07-07T13:01:58.498Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:01:58.498Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0472ce86f08552f56f3df2"
+  },
+  "title": "Affabulazione - Trailer",
+  "link": "https://www.youtube.com/watch?v=TtClMFZx4UY",
+  "description": "<p>1993</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/affabulazione\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "20",
+  "updated_at": {
+    "$date": "2020-07-07T13:04:14.893Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:04:14.893Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f04732c726a0008a21cf292"
+  },
+  "title": "Donna di dolori - Trailer",
+  "link": "https://www.youtube.com/watch?v=pMpbHMY0WF4",
+  "description": "<p>1992</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/donna-di-dolori\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "21",
+  "updated_at": {
+    "$date": "2020-07-07T13:06:03.755Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:05:48.523Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f04738f551f9f4fa4467702"
+  },
+  "title": "L'aquila bambina - Trailer",
+  "link": "https://www.youtube.com/watch?v=6VJbudLGe7M",
+  "description": "<p>1992</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/l-aquila-bambina\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "22",
+  "updated_at": {
+    "$date": "2020-07-07T13:07:27.660Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:07:27.660Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0473f96315100d533394d2"
+  },
+  "title": "Misura per misura - trailer",
+  "link": "https://www.youtube.com/watch?v=qa-4F9pMfaA",
+  "description": "<p>1992</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/misura-per-misura-1\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "23",
+  "updated_at": {
+    "$date": "2020-07-07T13:09:34.110Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:09:13.247Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0474917da2d3693d63ebf2"
+  },
+  "title": "Nella gabbia - Trailer",
+  "link": "https://www.youtube.com/watch?v=DmoYAHrw0O4",
+  "description": "<p>1991</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/nella-gabbia\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "24",
+  "updated_at": {
+    "$date": "2020-07-07T13:11:45.235Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:11:45.235Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0474ffc1ac99128a65ddf2"
+  },
+  "title": "La pazza di Chaillot - Trailer",
+  "link": "https://www.youtube.com/watch?v=OpT3m1TV-Hk",
+  "description": "<p>1991</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/la-pazza-di-chaillot\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "25",
+  "updated_at": {
+    "$date": "2020-07-07T13:13:35.305Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:13:35.305Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0475a6bb769f4bc16f5762"
+  },
+  "title": "Strano interludio - Trailer",
+  "link": "https://www.youtube.com/watch?v=kFsvtjhJWLQ",
+  "description": "<p>1990</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/strano-interludio\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "26",
+  "updated_at": {
+    "$date": "2020-07-07T13:16:22.846Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:16:22.846Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f047678bec9a772fa472022"
+  },
+  "title": "Gli ultimi giorni dell'umanità - estratto",
+  "link": "https://www.youtube.com/watch?v=Ka_HPjMD-vk",
+  "description": "<p>1990</p>\r\n\r\n<p>Estratto dalla versione televisiva</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/extra/gli-ultimi-giorni-dell-umanita-tv\" target=\"_blank\">Scheda</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "27",
+  "updated_at": {
+    "$date": "2020-07-07T13:19:52.027Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:19:52.027Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f047718176b054c9b678132"
+  },
+  "title": "Mirra",
+  "link": "https://www.youtube.com/watch?v=wN-iDV3v_TE",
+  "description": "<p>1988</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/mirra\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "28",
+  "updated_at": {
+    "$date": "2020-07-07T13:22:44.730Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:22:32.427Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f047798143864259a64e162"
+  },
+  "title": "Fedra",
+  "link": "https://www.youtube.com/watch?v=4huHXCXIwAw",
+  "description": "<p>1984</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/teatro/fedra\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f01cb7ec28653541947b6c2",
+  "order": "29",
+  "updated_at": {
+    "$date": "2020-07-07T13:24:40.916Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:24:40.916Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f04798ee2cc2255325f4e22"
+  },
+  "title": "Armida",
+  "link": "https://www.youtube.com/watch?v=kha97oMEeH0",
+  "description": "<p>2014</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/armida-1\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-07-07T13:33:02.978Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:33:02.978Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f047a6d81cbb532de36dbb2"
+  },
+  "title": "Falstaff  ",
+  "link": "https://www.youtube.com/watch?v=QO6MNafseCA",
+  "description": "<p>2013</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/falstaff-1\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-07T13:38:01.832Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:36:45.800Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05b80845e57d0d233e1422"
+  },
+  "title": "La clemenza di Tito",
+  "link": "https://www.youtube.com/watch?v=TPaxnQJz-1o",
+  "description": "<p>2010</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/la-clemenza-di-tito\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-07-08T12:11:52.250Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:11:52.250Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05b9253d9d9338777afb12"
+  },
+  "title": "Turandot",
+  "link": "https://www.youtube.com/watch?v=lPPuQyoc1r0",
+  "description": "<p>2006</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/turandot\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-07-08T12:16:37.014Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:16:37.014Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05baa332670b3c0419f272"
+  },
+  "title": "Ricciardo e Zoraide",
+  "link": "https://www.youtube.com/watch?v=WvEPl27RZzw",
+  "description": "<p>1990</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/ricciardo-e-zoraide\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-07-08T12:22:59.041Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:22:59.041Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bb614d1a1d71b469da02"
+  },
+  "title": "Guglielmo Tell",
+  "link": "https://www.youtube.com/watch?v=PIL0N8H5i7I",
+  "description": "<p>1988</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/guglielmo-tell\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-07-08T12:26:09.816Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:26:09.816Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bc3f831d9b77e95226e2"
+  },
+  "title": "Aida",
+  "link": "https://www.youtube.com/watch?v=shY4vcQ0qjY",
+  "description": "<p>1985</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/aida\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "6",
+  "updated_at": {
+    "$date": "2020-07-08T12:29:51.277Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:29:51.277Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bdc96c837130c93b11b2"
+  },
+  "title": "Viaggio a Reims (Gran pezzo concertato a 14 voci)",
+  "link": "https://www.youtube.com/watch?v=lPSy0ze7d60",
+  "description": "<p>1984</p>\r\n\r\n<p>Ripresa al Teatro alla Scala del 2009</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/il-viaggio-a-reims\" target=\"_blank\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "7",
+  "updated_at": {
+    "$date": "2020-07-08T12:36:25.943Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:36:25.943Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05be2b4bf88810575eb7d2"
+  },
+  "title": "Viaggio a Reims (Partir o ciel desio)",
+  "link": "https://www.youtube.com/watch?v=1FCNhArfjgc",
+  "description": "<p>1984</p>\r\n\r\n<p>Ripresa al Teatro alla Scala del 2009</p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "8",
+  "updated_at": {
+    "$date": "2020-07-08T12:38:58.593Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:38:03.832Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bf594f225a0e0e459442"
+  },
+  "title": "Viaggio a Reims (A tal colpo inaspettato)",
+  "link": "https://www.youtube.com/watch?v=oIPFYAelOPs",
+  "description": "<p>1984</p>\r\n\r\n<p>Ripresa al Teatro alla Scala del 2009</p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "9",
+  "updated_at": {
+    "$date": "2020-07-08T12:43:23.155Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:43:05.160Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bfa6abc5675bf7117d12"
+  },
+  "title": "Viaggio a Reims (Finale)",
+  "link": "https://www.youtube.com/watch?v=AFB7za8Xkeo",
+  "description": "<p>1984</p>\r\n\r\n<p>Ripresa al Teatro alla Scala del 2009</p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "10",
+  "updated_at": {
+    "$date": "2020-07-08T12:44:22.085Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:44:22.085Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f05bfe52806ae6f610f1572"
+  },
+  "title": "Viaggio a Reims (Inni e Finale)",
+  "link": "https://www.youtube.com/watch?v=tD-4a5qrpic",
+  "description": "<p>1984</p>\r\n\r\n<p>Ripresa al Teatro alla Scala del 2009</p>\r\n",
+  "category_id": "5f0478a7c1cdf04c6a603832",
+  "order": "11",
+  "updated_at": {
+    "$date": "2020-07-08T12:45:25.223Z"
+  },
+  "created_at": {
+    "$date": "2020-07-08T12:45:25.223Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f2933203c4d345dfd2189c2"
+  },
+  "title": "Luca Ronconi: Director, Autor, Architetto, Curator, Metteur en Scene (Teatro alla Scala)",
+  "link": "https://www.youtube.com/watch?v=oC3FWOr5-6c",
+  "description": "<p>2020</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-08-04T10:08:16.105Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:06:24.417Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f2934c8608faf7acf03d622"
+  },
+  "title": "L'infinita ricerca | Luca Ronconi al Piccolo Teatro | Lo sguardo critico",
+  "link": "https://www.youtube.com/watch?v=GtdhSDZm7dI",
+  "description": "<p>Viaggio al centro del teatro, della creativit&agrave;, della passione per la didattica di Luca Ronconi, a 5 anni dalla morte.</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-09-07T09:24:38.248Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:13:28.011Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f29351f097361239c18cc42"
+  },
+  "title": "L'infinita Ricerca | Luca Ronconi al Piccolo Teatro | Dal tavolino al palcoscenico",
+  "link": "https://www.youtube.com/watch?v=K_-c1SiYs9U",
+  "description": "<p>Viaggio al centro del teatro, della creativit&agrave;, della passione per la didattica di Luca Ronconi, a 5 anni dalla morte.</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-09-07T09:25:16.502Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:14:55.316Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f293566806f30602a0b4ea2"
+  },
+  "title": "L'infinita ricerca | Luca Ronconi al Piccolo Teatro | Il metodo è nel lavoro",
+  "link": "https://www.youtube.com/watch?v=PtqLBiC0RhM",
+  "description": "<p>Viaggio al centro del teatro, della creativit&agrave;, della passione per la didattica di Luca Ronconi, a 5 anni dalla morte.</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-09-07T09:25:41.243Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:16:06.865Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f293653f554006f210f0f92"
+  },
+  "title": "L'infinita Ricerca | Luca Ronconi al Piccolo Teatro | Il tempo dello spazio e lo spazio del tempo",
+  "link": "https://www.youtube.com/watch?v=xTa2QWnj7fU",
+  "description": "<p>Viaggio al centro del teatro, della creativit&agrave;, della passione per la didattica di Luca Ronconi, a 5 anni dalla morte.</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-09-07T09:26:33.604Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:20:03.957Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f2936d887c9004ee5569812"
+  },
+  "title": "Luca Ronconi: Prove di autobiografia",
+  "link": "https://www.youtube.com/watch?v=Du1ZP7vpFMA",
+  "description": "<p>2019</p>\r\n\r\n<p><span dir=\"auto\">Presentazione del libro &quot;Prove di autobiografia&quot;, a cura di Giovanni Agosti, Feltrinelli.</span></p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "5",
+  "updated_at": {
+    "$date": "2020-09-07T09:26:08.927Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:22:16.258Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f2938ef358598149950c932"
+  },
+  "title": "Progetto per un film su Luca Ronconi di Antonio Syxty #2",
+  "link": "https://www.youtube.com/watch?v=Ylt7IWInkRU",
+  "description": "",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "6",
+  "updated_at": {
+    "$date": "2020-08-04T10:31:11.803Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:31:11.803Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f293933efc8cc2661388632"
+  },
+  "title": "Progetto per un film su Luca Ronconi di Antonio Syxty #3",
+  "link": "https://www.youtube.com/watch?v=Ra77nZUXjp8",
+  "description": "",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "7",
+  "updated_at": {
+    "$date": "2020-08-04T10:32:19.249Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:32:19.249Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f634ebb7634e701bf1d1202"
+  },
+  "title": "Paola Gassman ricorda Luca Ronconi e l'Orlando furioso",
+  "link": "https://www.youtube.com/watch?v=MrBbxPvDIk8",
+  "description": "<p>2016</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "8",
+  "updated_at": {
+    "$date": "2020-09-17T11:55:39.710Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T11:55:39.710Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f634fc093ff5700226fa232"
+  },
+  "title": "Il teatro che non c'è più - Dedica a Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=coJoTBg1G8Y",
+  "description": "<p>2016</p>\r\n\r\n<p>Omaggio a Luca Ronconi del Teatro Due di Parma</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "9",
+  "updated_at": {
+    "$date": "2020-09-17T12:03:47.026Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T12:00:00.435Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f6351fb61da2312b965aa92"
+  },
+  "title": "Retroscena 2016/17 - Conversazione con gli attori di Lehman Trilogy",
+  "link": "https://www.youtube.com/watch?v=v-951YzUnrc",
+  "description": "<p>2016</p>\r\n\r\n<p>Gli attori della compagnia dialogano su Lehman Trilogy (Retroscena, progetto del Teatro Stabile di Torino)</p>\r\n\r\n<p>&nbsp;</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "10",
+  "updated_at": {
+    "$date": "2020-09-17T12:10:23.020Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T12:09:31.925Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f635360459dbf48ab226812"
+  },
+  "title": "Lehman Trilogy, l'ultimo capolavoro di Luca Ronconi",
+  "link": "https://www.youtube.com/watch?v=V0GYkKeLxGc",
+  "description": "<p>2016</p>\r\n\r\n<p>Speciale su Lehman Trilogy, con interviste agli attori, immagini delle prove e dello spettacolo</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "11",
+  "updated_at": {
+    "$date": "2020-09-17T12:15:28.065Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T12:15:28.065Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f6354a4692fa464581d0cc2"
+  },
+  "title": "Speciale Ronconi a Torino. Immagini, ricordi e testimonianza",
+  "link": "https://www.youtube.com/watch?v=BnfL0sWLc7Q",
+  "description": "<p>2016</p>\r\n\r\n<p>Incontro per ripercorrere il lavoro di Luca Ronconi al Teatro Stabile di Torino</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "12",
+  "updated_at": {
+    "$date": "2020-09-17T12:20:52.681Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T12:20:52.681Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f63557942f61501a02ea492"
+  },
+  "title": " 8 marzo 2015 - Luca Ronconi | La continua ricerca",
+  "link": "https://www.youtube.com/watch?v=K_aR23RHoPY",
+  "description": "<p>2015</p>\r\n\r\n<p>Il ricordo di Luca Ronconi del Piccolo Teatro per l&#39;8 marzo 2015</p>\r\n",
+  "category_id": "5f293228ba69554d9e38bbb2",
+  "order": "13",
+  "updated_at": {
+    "$date": "2020-09-17T12:25:56.816Z"
+  },
+  "created_at": {
+    "$date": "2020-09-17T12:24:25.068Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f7c5c61aae0786d4b5acc32"
+  },
+  "title": "Moïse et Pharaon ",
+  "link": "https://www.youtube.com/watch?v=JeoWIvx57Jg",
+  "description": "<p>1983</p>\r\n\r\n<p><a href=\"http://lucaronconi.it/scheda/opera/moise-et-pharaon-ou-le-passage-de-la-mer-rouge\" target=\"_blank\"><strong>Scheda spettacolo</strong></a></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-10-06T12:02:28.892Z"
+  },
+  "created_at": {
+    "$date": "2020-10-06T12:00:33.727Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "600d78cc7cd9f631a7533662"
+  },
+  "title": "Don Carlo",
+  "link": "https://youtu.be/lBqV4ZD2rX8",
+  "description": "<p>1977 - Parte I</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/don-carlo\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "5",
+  "updated_at": {
+    "$date": "2021-01-24T13:43:24.841Z"
+  },
+  "created_at": {
+    "$date": "2021-01-24T13:40:28.381Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "600d79b1a98cef4d3d55e722"
+  },
+  "title": "Don Carlo",
+  "link": "https://www.youtube.com/watch?v=VvVwrGSHXEQ",
+  "description": "<p>1977 - Parte II</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/don-carlo\">Scheda spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "6",
+  "updated_at": {
+    "$date": "2021-01-24T13:44:53.412Z"
+  },
+  "created_at": {
+    "$date": "2021-01-24T13:44:17.116Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "605894dfccb92025a51b9d02"
+  },
+  "title": "Faust",
+  "link": "https://www.youtube.com/watch?v=GSdfTpT7ALg",
+  "description": "<p>1975 - Ripresa del 1985</p>\r\n\r\n<p><strong><a href=\"http://lucaronconi.it/scheda/opera/faust\">Scheda&nbsp;spettacolo</a></strong></p>\r\n",
+  "category_id": "5ef7124482c4b033897d1692",
+  "order": "7",
+  "updated_at": {
+    "$date": "2021-03-22T13:02:49.191Z"
+  },
+  "created_at": {
+    "$date": "2021-03-22T13:00:15.471Z"
+  }
+}]

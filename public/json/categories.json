@@ -1,0 +1,78 @@
+[{
+  "_id": {
+    "$oid": "5ef5eb90b074490e921bf212"
+  },
+  "name": "Teatro - spettacoli integrali",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-06-26T12:35:28.729Z"
+  },
+  "created_at": {
+    "$date": "2020-06-26T12:35:28.729Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef7124482c4b033897d1692"
+  },
+  "name": "Opera lirica - spettacoli integrali",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-06-27T09:32:52.966Z"
+  },
+  "created_at": {
+    "$date": "2020-06-27T09:32:52.966Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5ef88e01793b93554b6898f2"
+  },
+  "name": "Interviste e incontri ",
+  "order": "3",
+  "updated_at": {
+    "$date": "2020-06-28T12:33:05.254Z"
+  },
+  "created_at": {
+    "$date": "2020-06-28T12:33:05.254Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f01cb7ec28653541947b6c2"
+  },
+  "name": "Teatro - estratti dagli spettacoli",
+  "order": "1",
+  "updated_at": {
+    "$date": "2020-07-05T12:45:50.753Z"
+  },
+  "created_at": {
+    "$date": "2020-07-05T12:45:50.753Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f0478a7c1cdf04c6a603832"
+  },
+  "name": "Opera lirica - estratti dagli spettacoli",
+  "order": "2",
+  "updated_at": {
+    "$date": "2020-07-07T13:29:11.708Z"
+  },
+  "created_at": {
+    "$date": "2020-07-07T13:29:11.708Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "5f293228ba69554d9e38bbb2"
+  },
+  "name": "Contributi, documentari, special",
+  "order": "4",
+  "updated_at": {
+    "$date": "2020-08-04T10:02:16.111Z"
+  },
+  "created_at": {
+    "$date": "2020-08-04T10:02:16.111Z"
+  }
+}]
