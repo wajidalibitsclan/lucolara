@@ -4,10 +4,7 @@
     <div id="page_content">
         <div id="top_bar">
             <ul id="breadcrumbs">
-                <li><a href="{{ route('listaVocabolari') }}">Vocabolari</a></li>
-                <li><a
-                        href="{{ route('listaTermini', ['objectid' => $termine->vocabolario->id]) }}">{{ $termine->vocabolario->title }}</a>
-                </li>
+                <li><a href="">Category</a></li>
             </ul>
         </div>
         <div id="page_content_inner">
@@ -19,11 +16,8 @@
             @endif
 
 
-            <form method="post"
-                action="{{ route('updateTermine', ['objectid' => $termine->vocabolario->id, 'termid' => $termine->id]) }}"
-                enctype="multipart/form-data">
+            <form method="post" action="{{ route('added.category') }}">
                 {{ csrf_field() }}
-
                 <div class="uk-grid" data-uk-grid-margin="">
                     <div class="uk-width-medium-3-4 uk-row-first">
                         <div class="md-card">
@@ -32,9 +26,10 @@
                                     <div class="uk-grid">
                                         <div class="uk-width-medium-1-1 uk-row-first">
                                             <div class="md-input-wrapper">
-                                                <h3 class="heading_c">Termine</h3>
-                                                <input type="text" class="md-input" name="termine"
-                                                    value="{{ $termine->termine }}"><span class="md-input-bar "></span>
+                                                <h3 class="heading_c">Name</h3>
+                                                <input type="text" class="md-input" value="{{ old('name') }}"
+                                                    name="name">
+                                                <span class="md-input-bar"></span>
                                             </div>
                                         </div>
                                     </div>
@@ -44,23 +39,14 @@
                                     <div class="uk-grid">
                                         <div class="uk-width-medium-1-1 uk-row-first">
                                             <div class="md-input-wrapper">
-                                                <h3 class="heading_c">Mostra nel menu </h3>
-                                                Si
-                                                <input type="radio" class="md-input" name="no_menu" value="0"
-                                                    {{ !isset($termine->no_menu) || $termine->no_menu == 0 ? 'checked' : '' }}>
-                                                No
-                                                <input type="radio" class="md-input" name="no_menu" value="1"
-                                                    {{ isset($termine->no_menu) && $termine->no_menu == 1 ? 'checked' : '' }}>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <div class="uk-form-row" data-uk-grid-margin>
-                                    <div class="uk-grid">
-                                        <div class="uk-width-medium-1-1 uk-row-first">
-                                            <div class="md-input-wrapper">
-                                                <h3 class="heading_c uk-margin-bottom">Contenuto</h3>
-                                                <textarea id="wysiwyg_ckeditor" class="md-input selecize_init" name="body">{{ $termine->body }}</textarea>
+                                                <h3 class="heading_c">Category</h3>
+                                                <select name="category" id="category" class="md-input">
+                                                    @foreach ($categories as $key => $category)
+                                                        <option value="{{ $category->id }}"
+                                                            {{ old('category') == $category->id ? 'selected' : '' }}>
+                                                            {{ $category->name }}</option>
+                                                    @endforeach
+                                                </select>
                                             </div>
                                         </div>
                                     </div>
@@ -81,6 +67,7 @@
                         </div>
                     </div>
                 </div>
+
             </form>
         </div>
     </div>

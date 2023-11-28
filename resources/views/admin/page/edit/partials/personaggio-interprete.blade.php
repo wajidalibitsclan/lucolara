@@ -16,12 +16,12 @@
                                         <h4>Personaggio</h4>
                                         <div class="md-input-wrapper md-input-filled">
                                             <div class="uk-autocomplete uk-form uk-position-relative">
-                                                <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                 <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                             </div>
                                             <div id="termini_selezionati">
@@ -32,12 +32,12 @@
                                         <h4>Interprete</h4>
                                         <div class="md-input-wrapper md-input-filled">
                                             <div class="uk-autocomplete uk-form uk-position-relative">
-                                                <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                 <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                             </div>
                                             <div id="termini_selezionati">
@@ -63,12 +63,12 @@
                                             <h4>Personaggio</h4>
                                             <div class="md-input-wrapper md-input-filled">
                                                 <div class="uk-autocomplete uk-form uk-position-relative {{isset($valore['ruolo']) && !empty($valore['ruolo']) ? 'uk-hidden' : ''}}">
-                                                    <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                    <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                     <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                                 </div>
                                                 <div id="termini_selezionati">
@@ -87,12 +87,12 @@
                                             <h4>Interprete</h4>
                                             <div class="md-input-wrapper md-input-filled">
                                                 <div class="uk-autocomplete uk-form uk-position-relative  {{isset($valore['persone']) && !empty($valore['persone']) ? 'uk-hidden' : ''}}">
-                                                    <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                    <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                     <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                                 </div>
                                                 <div id="termini_selezionati">
@@ -100,7 +100,7 @@
                                                         @php
                                                             $persona = getTermById($valore['persone'])
                                                         @endphp
-                                                        <div id="{{$valore['persone']}}" class="uk-alert {{is_object($persona) ? 'personaggio_' . $persona->_id : ''}} uk-alert-info nome_persona"><input type="hidden" name="persone" value="{{$valore['persone']}}">
+                                                        <div id="{{$valore['persone']}}" class="uk-alert {{is_object($persona) ? 'personaggio_' . $persona->id : ''}} uk-alert-info nome_persona"><input type="hidden" name="persone" value="{{$valore['persone']}}">
                                                             {{is_object($persona) ? $persona->termine : $valore['persone'] . '  (Etichetta)'}}
                                                         </div>
                                                     @endif
@@ -110,11 +110,11 @@
                                                     @if(is_object($persona))
                                                         <div class="uk-width-medium-1-2">
                                                             <a class="md-btn md-btn-primary md-btn-mini md-btn-wave-light md-btn-icon waves-effect waves-button waves-light"
-                                                               data-id="{{$persona->_id}}"
+                                                               data-id="{{$persona->id}}"
                                                                data-vocabolario="{{$persona->vocabulary_id}}"
                                                                data-termine="{{$persona->termine}}"
                                                                data-token="{{ csrf_token() }}"
-                                                               data-url="{{route('updateTermine', ['objectid' => $persona->vocabulary_id, 'termid' => $persona->_id, 'ajax' => 'true'])}}"
+                                                               data-url="{{route('updateTermine', ['objectid' => $persona->vocabulary_id, 'termid' => $persona->id, 'ajax' => 'true'])}}"
                                                                href="javascript:void(0)" onclick="modificaTermine(this)">
                                                                 Modifica Persona
                                                             </a>
@@ -154,12 +154,12 @@
                                         <h4>Personaggio</h4>
                                         <div class="md-input-wrapper md-input-filled">
                                             <div class="uk-autocomplete uk-form uk-position-relative">
-                                                <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                <input id="ruolo" name="ruolo" type="text" data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                 <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Ruolo', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Ruolo', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                             </div>
                                             <div id="termini_selezionati">
@@ -170,12 +170,12 @@
                                         <h4>Interprete</h4>
                                         <div class="md-input-wrapper md-input-filled">
                                             <div class="uk-autocomplete uk-form uk-position-relative">
-                                                <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}" class="md-input suggest_termini" placeholder="Cerca..">
+                                                <input id="persone" name="persone" type="text" data-vocabulary_id="{{getVocabolario('Persone', false)->id}}" class="md-input suggest_termini" placeholder="Cerca..">
                                                 <span class="uk-form-help-block">
                                                     <a herf="#" class="uk-button uk-width-medium-1-1 uk-vertical-align-middle aggiuingiEtichetta" onclick="addEtichetta(this)"
-                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->_id}}"
+                                                       data-vocabulary_id="{{getVocabolario('Persone', false)->id}}"
                                                        data-token="{{ csrf_token() }}"
-                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->_id ])}}">Inserisci Termine</a>
+                                                       data-url="{{route('storeTerm', ['objectid' => getVocabolario('Persone', false)->id ])}}">Inserisci Termine</a>
                                                 </span>
                                             </div>
                                             <div id="termini_selezionati">

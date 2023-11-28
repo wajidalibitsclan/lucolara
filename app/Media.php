@@ -11,16 +11,17 @@ use Illuminate\Support\Str;
 
 class Media extends Model
 {
-	protected $fillable = ['titolo', 'description', 'file_path', 'filename', 'type','extension'];
+	protected $fillable = ['title', 'description', 'bozzetto', 'file_path', 'filename', 'type', 'extension', 'size'];
 	protected $table = 'medias';
 	var $path = 'default';
 	var $tipologia = 'media';
 	var $placeholder = 'Media allegato';
 
 
-	public function __construct( array $attributes = array() ) {
+	public function __construct(array $attributes = array())
+	{
 		$this->type = $this->tipologia;
-		parent::__construct( $attributes );
+		parent::__construct($attributes);
 	}
 
 
@@ -31,30 +32,32 @@ class Media extends Model
 	 *
 	 * @return mixed
 	 */
-	public function storeUploadedFile($file){
-		if($file->isValid()){
+	public function storeUploadedFile($file)
+	{
+		if ($file->isValid()) {
 			$nomefileCompleto = $file->getClientOriginalName();
 			$extension = $file->getClientOriginalExtension();
 			$nomefile = Str::slug(str_replace('.' . $extension, '', $nomefileCompleto));
 			$nomefile = $this->verificaNomeMedia(storage_path('app/public/' . $this->path), $nomefile, $extension);
 			$store = $file->storeAs('public/' . $this->path, $nomefile);
 			return $store;
-		}else{
+		} else {
 			return $file->getErrorMessage();
 		}
 	}
 
-	public function storeAndCreate($file, $title = false, $description = false, $bozzetto = false){
+	public function storeAndCreate($file, $title = false, $description = false, $bozzetto = false)
+	{
 		$store_path = $this->storeUploadedFile($file);
 		$filename = explode('/', $store_path);
 		$filename = end($filename);
-		if($title){
+		if ($title) {
 			$this->title = $title;
 		}
-		if($description){
+		if ($description) {
 			$this->description = $description;
 		}
-		if($bozzetto && !empty($bozzetto)){
+		if ($bozzetto && !empty($bozzetto)) {
 			$this->bozzetto = 1;
 		}
 
@@ -75,14 +78,14 @@ class Media extends Model
 	 *
 	 * @return string
 	 */
-	public function verificaNomeMedia($path,  $nomefile, $extension){
-		$nomefileCompleto = $nomefile.".".$extension;
+	public function verificaNomeMedia($path,  $nomefile, $extension)
+	{
+		$nomefileCompleto = $nomefile . "." . $extension;
 		$i = 1;
 		//Verifco se esite il nome del file
-		while(file_exists($path.'/'.$nomefileCompleto))
-		{
-			$nomeTemporaneo = (string)$nomefile.'-'.$i;
-			$nomefileCompleto = $nomeTemporaneo.".".$extension;
+		while (file_exists($path . '/' . $nomefileCompleto)) {
+			$nomeTemporaneo = (string)$nomefile . '-' . $i;
+			$nomefileCompleto = $nomeTemporaneo . "." . $extension;
 			$i++;
 		}
 		return $nomefileCompleto;
@@ -92,10 +95,11 @@ class Media extends Model
 	 * Recupro il titolo del media
 	 * @return mixed|string
 	 */
-	public function getTitle(){
-		if(isset($this->title) && !empty($this->title)){
+	public function getTitle()
+	{
+		if (isset($this->title) && !empty($this->title)) {
 			return $this->title;
-		}else{
+		} else {
 			return $this->placeholder;
 		}
 	}
@@ -104,18 +108,20 @@ class Media extends Model
 	 * recupero la url del file verificandone la presenza
 	 * @return string
 	 */
-	public function getPublicUrl(){
-		if(Storage::exists($this->file_path)){
+	public function getPublicUrl()
+	{
+		if (Storage::exists($this->file_path)) {
 			$url = Storage::url($this->file_path);
-            // dd(asset($url));
+			// dd(asset($url));
 			return asset($url);
 		}
 	}
 
-	public function getObject(){
+	public function getObject()
+	{
 		$value = $this->toArray();
-		foreach($value as $key =>  $field){
-			if(in_array($key, $this->fillable)) continue;
+		foreach ($value as $key =>  $field) {
+			if (in_array($key, $this->fillable)) continue;
 			unset($value[$key]);
 		}
 		$class = ucfirst($this->type);
@@ -123,5 +129,4 @@ class Media extends Model
 		$media = new $class($value);
 		return $media;
 	}
-
 }

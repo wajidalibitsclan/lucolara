@@ -1,6 +1,7 @@
 <?php
 
 namespace App\Http\Controllers\Admin;
+
 use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use App\Vocabulary;
@@ -18,10 +19,9 @@ class VocabularyAdminController extends Controller
      */
     public function index()
     {
-	    $vocabolari = Vocabulary::paginate(15);
+        $vocabolari = Vocabulary::paginate(15);
 
-	    return view('admin.page.vocabulary.list')->with(compact('vocabolari'));
-
+        return view('admin.page.vocabulary.list')->with(compact('vocabolari'));
     }
 
     /**
@@ -43,26 +43,25 @@ class VocabularyAdminController extends Controller
     public function store(Request $request)
     {
 
-	    $rules = array(
-		    'title'       => 'required',
-	    );
-	    $validator = Validator::make($request->all(), $rules);
+        $rules = array(
+            'title'       => 'required',
+        );
+        $validator = Validator::make($request->all(), $rules);
 
-	    // process the login
-	    if ($validator->fails()) {
-		    return   redirect()->back()->withErrors($validator);
-	    } else {
-		    // store
-		    $vocabulary = new Vocabulary();
-		    $vocabulary->title  = $request->input('title');
-		    $vocabulary->body   = $request->input('body');
-		    $vocabulary->save();
+        // process the login
+        if ($validator->fails()) {
+            return   redirect()->back()->withErrors($validator);
+        } else {
+            // store
+            $vocabulary = new Vocabulary();
+            $vocabulary->title  = $request->input('title');
+            $vocabulary->body   = $request->input('body');
+            $vocabulary->save();
 
-		    // redirect
-		    Session::flash('message', 'Successfully created nerd!');
-		    return redirect()->route('listaVocabolari');
-	    }
-
+            // redirect
+            Session::flash('message', 'Successfully created nerd!');
+            return redirect()->route('listaVocabolari');
+        }
     }
 
     /**
@@ -97,25 +96,25 @@ class VocabularyAdminController extends Controller
      */
     public function update(Request $request, $objectid)
     {
-	    $rules = array(
-		    'title'       => 'required',
-	    );
-	    $validator = Validator::make($request->all(), $rules);
+        $rules = array(
+            'title'       => 'required',
+        );
+        $validator = Validator::make($request->all(), $rules);
 
-	    // process the login
-	    if ($validator->fails()) {
-		    return   redirect()->back()->withErrors($validator);
-	    } else {
-		    // store
-		    $vocabulary = Vocabulary::find($objectid);
-		    $vocabulary->title  = $request->input('title');
-		    $vocabulary->body   = $request->input('body');
-		    $vocabulary->save();
+        // process the login
+        if ($validator->fails()) {
+            return   redirect()->back()->withErrors($validator);
+        } else {
+            // store
+            $vocabulary = Vocabulary::find($objectid);
+            $vocabulary->title  = $request->input('title');
+            $vocabulary->body   = $request->input('body');
+            $vocabulary->save();
 
-		    // redirect
-		    Session::flash('message', 'Successfully created nerd!');
-		    return redirect()->route('listaVocabolari');
-	    }
+            // redirect
+            Session::flash('message', 'Successfully created nerd!');
+            return redirect()->route('listaVocabolari');
+        }
     }
 
     /**

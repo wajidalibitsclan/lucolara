@@ -13,15 +13,15 @@ class Vocabulary extends Model
 	protected $table = 'vocabularies';
 	protected $fillable = ['title', 'body', 'slug'];
 
-	public function terminiVocabolario(){
+	public function terminiVocabolario()
+	{
 		//dd($this);
 		$termini =  $this->hasMany('\App\Term',  'vocabulary_id', 'id')->orderBy('termine', 'asc')->get();
-		if($termini){
+		if ($termini) {
 			return $termini;
-		}else{
+		} else {
 			return false;
 		}
-
 	}
 
 
@@ -29,7 +29,7 @@ class Vocabulary extends Model
 	 * Gestione slug su title
 	 * @return array
 	 */
-	public function sluggable() : array
+	public function sluggable(): array
 	{
 		return [
 			'slug' => [
@@ -37,5 +37,4 @@ class Vocabulary extends Model
 			]
 		];
 	}
-
 }

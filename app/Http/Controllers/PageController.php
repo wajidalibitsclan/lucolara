@@ -7,6 +7,7 @@ use App\Page;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Support\Facades\Input;
 use Illuminate\Support\Facades\Session;
+
 class PageController extends Controller
 {
     /**
@@ -50,10 +51,10 @@ class PageController extends Controller
     public function show($slug)
     {
         $page = Page::where('slug', $slug)->first();
-	    if(!$page){
-		    abort(404);
-	    }
-	    return view('layouts/page/defaultPage')->with(compact('page'));
+        if (!$page) {
+            abort(404);
+        }
+        return view('layouts/page/defaultPage')->with(compact('page'));
     }
 
     /**
@@ -75,36 +76,34 @@ class PageController extends Controller
      * @param  int  $id
      * @return \Illuminate\Http\Response
      */
-	public function update(Request $request, $objectId)
-	{
+    public function update(Request $request, $objectId)
+    {
+        $rules = array(
+            'title'       => 'required',
+        );
+        $validator = Validator::make($request->all(), $rules);
 
-		$rules = array(
-			'title'       => 'required',
-		);
-		$validator = Validator::make($request->all(), $rules);
+        // process the login
+        if ($validator->fails()) {
+            return back()->withErrors($validator->getMessageBag());
+        } else {
+            // store
+            $page = Page::find($objectId);
+            $page->title  = $request->input('title');
+            if ($request->has('body')) {
+                $page->body   = $request->input('body');
+            } else {
+                if (isset($page->body) && !empty($page->body)) {
+                    $page->body = '';
+                }
+            }
+            $page->save();
 
-		// process the login
-		if ($validator->fails()) {
-			return   redirect()->back()->withErrors($validator);
-		} else {
-			// store
-			$page = Page::find($objectId);
-			$page->title  = $request->input('title');
-			if($request->has('body')){
-				$page->body   = $request->input('body');
-			}else{
-				if(isset($page->body) && !empty($page->body)){
-					$page->body = '';
-				}
-			}
-			$page->save();
-
-			// redirect
-			Session::flash('success', 'Aggiornato con Successo!');
-			return redirect()->route('modificaPagina', ['objectId' => $page->_id]);
-
-		}
-	}
+            // redirect
+            Session::flash('success', 'Aggiornato con Successo!');
+            return redirect()->route('modificaPagina', ['objectId' => $page->id]);
+        }
+    }
 
     /**
      * Remove the specified resource from storage.

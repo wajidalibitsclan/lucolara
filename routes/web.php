@@ -6,9 +6,11 @@ use Illuminate\Support\Facades\Request;
 use Illuminate\Support\Facades\Route;
 use App\Article;
 use App\Http\Controllers\Admin\AdminController;
+use App\Http\Controllers\Admin\CategoryController;
 use App\Http\Controllers\Admin\TermAdminController;
 use App\Http\Controllers\Admin\VideoCategoryController;
 use App\Http\Controllers\Admin\VideoController;
+use App\Http\Controllers\Admin\VocabularyAdminController;
 use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Front\ArticleController;
 use App\Http\Controllers\Front\HomeController;
@@ -46,12 +48,12 @@ Route::get('/pagina/{slug}', [PageController::class, 'show'])->name('dettaglioPa
 Route::get('/videos', [VideoController::class, 'index'])->name('videos.index');
 
 //Redirect 301 dei vecchi contenuti
-Route::get('/old', function(Request $request){
-	if($request->has('num')){
+Route::get('/old', function (Request $request) {
+	if ($request->has('num')) {
 		$article = Article::where('old_id', (int)$request->input('num'))->first();
-		if(!$article){
-		abort(404);
-		}else{
+		if (!$article) {
+			abort(404);
+		} else {
 			return Redirect::to(route('dettaglioArticolo', ['object' => $article->type, 'slug' => $article->slug]), 301);
 		}
 	}
@@ -67,45 +69,48 @@ Route::get('/old', function(Request $request){
 */
 Route::group(['middleware' => 'auth'], function () {
 	Route::group(['prefix' => 'admin'], function () {
-		Route::get('/', [AdminController::class,'dashboard'])->name('adminHome');
-		Route::get('/post/{object}', [AdminController::class,'index'])->name('adminList');
-		Route::get('/post/{object}/edit/{id}', [AdminController::class,'edit'])->name('adminEdit');
-		Route::post('/post/{object}/update/{id}', [AdminController::class,'update'])->middleware('RegisterPhotos')->name('adminUpdate');
-		Route::get('/post/{object}/add', [AdminController::class,'create'])->name('adminAdd');
-		Route::post('/post/{object}/add', [AdminController::class,'insert'])->middleware('RegisterPhotos')->name('adminAddInsert');
-		Route::post('/post/delete/', [AdminController::class,'delete'])->name('adminDel');
+		Route::get('/', [AdminController::class, 'dashboard'])->name('adminHome');
+		Route::get('/post/{object}', [AdminController::class, 'index'])->name('adminList');
+		Route::get('/post/{object}/edit/{id}', [AdminController::class, 'edit'])->name('adminEdit');
+		Route::post('/post/{object}/update/{id}', [AdminController::class, 'update'])->middleware('RegisterPhotos')->name('adminUpdate');
+		Route::get('/post/{object}/add', [AdminController::class, 'create'])->name('adminAdd');
+		Route::post('/post/{object}/add', [AdminController::class, 'insert'])->middleware('RegisterPhotos')->name('adminAddInsert');
+		Route::post('/post/delete/', [AdminController::class, 'delete'])->name('adminDel');
 		//Media
 		Route::post('/addMedia', [MediaController::class, 'addMediaToGallery'])->middleware('RegisterPhotos')->name('AddMedia');
-		Route::get('/media', 'MediaController@index')->name('mediaList');
-		Route::post('/media/ajax/{id}', 'PhotoController@ajaxUpdate')->name('mediaAjaxUpload');
-		Route::post('/link/ajax/{id}', 'LinkController@ajaxUpdate')->name('linkAjaxUpload');
-		Route::post('/locandina/ajax/{id}', 'PhotoController@ajaxLocandina')->name('ajaxLocandina');
+		Route::get('/media', [MediaController::class, 'index'])->name('mediaList');
+		Route::post('/media/ajax/{id}', [PhotoController::class, 'ajaxUpdate'])->name('mediaAjaxUpload');
+		Route::post('/link/ajax/{id}', [LinkController::class, 'ajaxUpdate'])->name('linkAjaxUpload');
+		Route::post('/locandina/ajax/{id}', [PhotoController::class, 'ajaxLocandina'])->name('ajaxLocandina');
 
 		//Gestione Vocabilari e Termini
-		Route::get('/vocabolari', 'Admin\VocabularyAdminController@index')->name('listaVocabolari');
-		Route::get('/vocabolari/add', 'Admin\VocabularyAdminController@create')->name('creaVocabolario');
-		Route::post('/vocabolari/store', 'Admin\VocabularyAdminController@store')->name('storeVocabolario');
-		Route::get('/vocabolari/edit/{objectid}', 'Admin\VocabularyAdminController@edit')->name('editVocabolario');
-		Route::post('/vocabolari/update/{objectid}', 'Admin\VocabularyAdminController@update')->name('updateVocabolario');
+		Route::get('/vocabolari', [VocabularyAdminController::class, 'index'])->name('listaVocabolari');
+		Route::get('/vocabolari/add', [VocabularyAdminController::class, 'create'])->name('creaVocabolario');
+		Route::post('/vocabolari/store', [VocabularyAdminController::class, 'store'])->name('storeVocabolario');
+		Route::get('/vocabolari/edit/{objectid}', [VocabularyAdminController::class, 'edit'])->name('editVocabolario');
+		Route::post('/vocabolari/update/{objectid}', [VocabularyAdminController::class, 'update'])->name('updateVocabolario');
 
-		Route::get('/vocabolario/{objectid}/termini', 'Admin\TermAdminController@index')->name('listaTermini');
-		Route::get('/vocabolario/{objectid}/termini/add', 'Admin\TermAdminController@create')->name('creaTermine');
-		Route::get('/vocabolario/{objectid}/termine/edit/{termid}', 'Admin\TermAdminController@edit')->name('editTermine');
-		Route::post('/vocabolario/{objectid}/termine/update/{termid}/{ajax?}', 'Admin\TermAdminController@update')->name('updateTermine');
-		Route::post('/vocabolario/{objectid}/termini/store', 'Admin\TermAdminController@store')->name('storeTerm');
-		Route::get('/vocabolario/json/temine/', 'Admin\TermAdminController@getTermJson')->name('getJsonTerm');
+		Route::get('/vocabolario/{objectid}/termini', [TermAdminController::class, 'index'])->name('listaTermini');
+		Route::get('/vocabolario/{objectid}/termini/add', [TermAdminController::class, 'create'])->name('creaTermine');
+		Route::get('/vocabolario/{objectid}/termine/edit/{termid}', [TermAdminController::class, 'edit'])->name('editTermine');
+		Route::post('/vocabolario/{objectid}/termine/update/{termid}/{ajax?}', [TermAdminController::class, 'update'])->name('updateTermine');
+		Route::post('/vocabolario/{objectid}/termini/store', [TermAdminController::class, 'store'])->name('storeTerm');
+		Route::get('/vocabolario/json/temine/', [TermAdminController::class, 'getTermJson'])->name('getJsonTerm');
 		//Gestione Pagine
-		Route::get('/pagine', 'PageController@index')->name('listPage');
-		Route::get('/pagina/{objectId}', 'PageController@edit')->name('modificaPagina');
-		Route::post('/pagina/{objectId}', 'PageController@update')->name('updatePagina');
+		Route::get('/pagine', [PageController::class, 'index'])->name('listPage');
+		Route::get('/pagina/{objectId}', [PageController::class, 'edit'])->name('modificaPagina');
+		Route::post('/pagina/{objectId}', [PageController::class, 'update'])->name('updatePagina');
+		//Category
+		Route::get('/category/list', [CategoryController::class, 'index'])->name('category.list');
+		Route::get('/category/add', [CategoryController::class, 'add'])->name('category.add');
+		Route::post('/category/added', [CategoryController::class, 'store'])->name('added.category');
 		//Ricerca
-		Route::get('/ricerca', 'Admin\AdminController@search')->name('searchAdmin');
+		Route::get('/ricerca', [AdminController::class, 'search'])->name('searchAdmin');
 		//Video
-        Route::resource('videos','Admin\VideoController',['names'=>'admin.videos']);
-        Route::resource('video_categories','Admin\VideoCategoryController',['names'=>'admin.video_categories']);
+		Route::resource('videos', VideoController::class, ['names' => 'admin.videos']);
+		Route::resource('video_categories', VideoCategoryController::class, ['names' => 'admin.video_categories']);
 		//Get subcategory select
-		Route::get('/get_subcategory/{categorie}', 'Admin\AdminController@get_subcategory')->name('admin.get_subcategory');
-
+		Route::get('/get_subcategory/{categorie}', [AdminController::class, 'get_subcategory'])->name('admin.get_subcategory');
 	});
 });
 
@@ -113,4 +118,4 @@ Route::group(['middleware' => 'auth'], function () {
 
 
 
-Route::get('/json/data/hai/na/kuin',[JSONConvertorController::class, 'videos']);
+Route::get('/json/data/hai/na/kuin', [JSONConvertorController::class, 'videos']);

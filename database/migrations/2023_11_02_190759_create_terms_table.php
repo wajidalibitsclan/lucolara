@@ -17,6 +17,8 @@ return new class extends Migration
             $table->unsignedBigInteger('vocabulary_id');
             $table->foreign('vocabulary_id')->references('id')->on('vocabularies')->onDelete('cascade');
             $table->string('slug')->nullable();
+            $table->string('no_menu')->nullable();
+            $table->text('body')->nullable();
             $table->timestamps();
         });
     }
